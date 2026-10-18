@@ -1,0 +1,7776 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-18T15:23:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1304981007,
+      "lat": 36.8566029,
+      "lon": 30.7468263,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Medical Park",
+        "operator": "Medical Park",
+        "operator:wikidata": "Q6073312",
+        "operator:wikipedia": "tr:Medical Park",
+        "wheelchair": "yes",
+        "wikidata": "Q131637411"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1711064004,
+      "lat": 36.8871895,
+      "lon": 30.7049269,
+      "tags": {
+        "amenity": "drinking_water",
+        "check_date": "2022-05-08"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2300063978,
+      "lat": 36.887111,
+      "lon": 30.7050976,
+      "tags": {
+        "amenity": "drinking_water",
+        "check_date": "2022-05-08",
+        "image": "https://photos.app.goo.gl/kEs1iPMXkXGp9PeeA",
+        "man_made": "water_tap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2301481146,
+      "lat": 36.8843232,
+      "lon": 30.7056528,
+      "tags": {
+        "amenity": "drinking_water",
+        "name": "Hüseyin Ak Çesmesi",
+        "start_date": "1950"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3405088905,
+      "lat": 36.9590158,
+      "lon": 30.6232398,
+      "tags": {
+        "amenity": "school",
+        "brand": "Bahçeşehir Koleji",
+        "brand:wikidata": "Q4843100",
+        "name": "Bahçeşehir Koleji"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3722795798,
+      "lat": 36.8708735,
+      "lon": 30.6278078,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "125. Yıl Sağlık Ocağı"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3957153183,
+      "lat": 36.9644596,
+      "lon": 30.7269727,
+      "tags": {
+        "amenity": "drinking_water",
+        "check_date": "2022-05-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4101057993,
+      "lat": 36.8764193,
+      "lon": 30.6451845,
+      "tags": {
+        "addr:housenumber": "81.Yıl Apartmani",
+        "addr:street": "666 Sokak",
+        "amenity": "clinic",
+        "email": "info@yaprakdanismanlik.com",
+        "healthcare": "clinic",
+        "internet_access": "wlan",
+        "name": "Mavi Yaprak Aile Danışma Merkezi",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+902422292965",
+        "website": "https://www.maviyaprak.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4248199796,
+      "lat": 36.8696158,
+      "lon": 30.7207565,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Özel Jineklinik Doğa Polikliniği",
+        "phone": "+902423212200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4427680457,
+      "lat": 36.8828947,
+      "lon": 30.6677545,
+      "tags": {
+        "amenity": "drinking_water",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4574896490,
+      "lat": 36.9688285,
+      "lon": 30.7290226,
+      "tags": {
+        "amenity": "school",
+        "name": "Varsak Şelale İlköğretim okulu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4620604029,
+      "lat": 36.8998153,
+      "lon": 30.6823825,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "25 Nolu İsmet Yüce Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4887508622,
+      "lat": 36.8759703,
+      "lon": 30.7271462,
+      "tags": {
+        "addr:housenumber": "38",
+        "addr:street": "Avni Tolunay Caddesi",
+        "amenity": "clinic",
+        "description": "Özel ayak sağlığı ve zor yara hiperbarik oksijen tedavi merkezî",
+        "email": "info@hiperox.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "oxygen_therapy",
+        "internet_access": "wlan",
+        "name": "Hiperox",
+        "opening_hours": "Mo-Sa 09:00-20:05",
+        "phone": "+90 242 322 00 99",
+        "website": "http://www.hiperox.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4897709222,
+      "lat": 36.9230518,
+      "lon": 30.6692654,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sağlık ocağı"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5983220345,
+      "lat": 36.8716086,
+      "lon": 30.6327312,
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Konyalatı",
+        "addr:neighbourhood": "Altınkum Mah.",
+        "addr:street": "460. Sokak",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Konyaaltı Altınkum Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6022471820,
+      "lat": 36.8846329,
+      "lon": 30.6721812,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6022479324,
+      "lat": 36.8825212,
+      "lon": 30.6632611,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6049573496,
+      "lat": 36.8839937,
+      "lon": 30.6776764,
+      "tags": {
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6089508898,
+      "lat": 36.916475,
+      "lon": 30.678294,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Tevfik Fikret Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6139926566,
+      "lat": 36.8787111,
+      "lon": 30.6653704,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6139926819,
+      "lat": 36.8793556,
+      "lon": 30.6668378,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6165371394,
+      "lat": 36.8810531,
+      "lon": 30.7353813,
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "1598. Sokak",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Meydankavağı Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178454100,
+      "lat": 36.9180356,
+      "lon": 30.7086622,
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:street": "2191. Sokak",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kepez 34 Nolu Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6188159519,
+      "lat": 36.9143906,
+      "lon": 30.7245353,
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Mareşal Fevzi Çakmak Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6195275236,
+      "lat": 36.9128274,
+      "lon": 30.6807041,
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:neighbourhood": "Özgürlük Mah.",
+        "addr:street": "Rasih Kaplan Caddesi",
+        "amenity": "school",
+        "name": "Hüseyin Avni Çöllü İmam Hatip Ortaokulu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6203411544,
+      "lat": 36.8965939,
+      "lon": 30.6772206,
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "Toroslar Caddesi",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Soğuksu Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6228006761,
+      "lat": 36.9301841,
+      "lon": 30.7315991,
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kepez Sütçüler Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6387483711,
+      "lat": 36.8768654,
+      "lon": 30.6561213,
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6387499591,
+      "lat": 36.8793067,
+      "lon": 30.6549354,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:ru": "Генетическая клиника"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6423825877,
+      "lat": 36.918217,
+      "lon": 30.6934529,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dünya Göz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6449272500,
+      "lat": 36.9391539,
+      "lon": 30.7234414,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Zehra Koz Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6511690827,
+      "lat": 36.8829399,
+      "lon": 30.7037077,
+      "tags": {
+        "access": "yes",
+        "amenity": "drinking_water",
+        "image": "https://photos.app.goo.gl/4tZtae9wxBkaXVYTA",
+        "name:ru": "Старинный колодец"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6511690828,
+      "lat": 36.8803539,
+      "lon": 30.7064059,
+      "tags": {
+        "amenity": "drinking_water",
+        "man_made": "water_tap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6636791585,
+      "lat": 36.8562303,
+      "lon": 30.6259661,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "İlk Çizgi Güzel Sanatlar Gündüz Bakımevi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6869776486,
+      "lat": 36.850297,
+      "lon": 30.7577894,
+      "tags": {
+        "addr:postcode": "07160",
+        "addr:street": "1995 Sokak",
+        "amenity": "school",
+        "name": "final Özel Akademi Lisesi",
+        "name:en": "final Özel Akademi Anadolu Lisesi",
+        "name:tr": "final Özel Akademi Anadolu Lisesi",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8272931188,
+      "lat": 36.8987134,
+      "lon": 30.6610594,
+      "tags": {
+        "amenity": "clinic",
+        "door": "H2-215",
+        "healthcare": "clinic",
+        "level": "2",
+        "name": "Gastroenteroloji Polikliniği"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8316813731,
+      "lat": 36.8876129,
+      "lon": 30.6240283,
+      "tags": {
+        "amenity": "school",
+        "name": "Konyaaltı Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8836376332,
+      "lat": 36.8545795,
+      "lon": 30.6256934,
+      "tags": {
+        "amenity": "drinking_water",
+        "capacity": "2",
+        "man_made": "water_tap",
+        "seasonal": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8878549151,
+      "lat": 36.9032337,
+      "lon": 30.6871827,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "internal",
+        "name": "Sedir Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8878549158,
+      "lat": 36.9069604,
+      "lon": 30.6863729,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Çallı Meydan Tıp Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9907447430,
+      "lat": 36.881095,
+      "lon": 30.7079192,
+      "tags": {
+        "amenity": "drinking_water",
+        "fee": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9907447431,
+      "lat": 36.8785599,
+      "lon": 30.7065739,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9934964176,
+      "lat": 36.89101,
+      "lon": 30.6938444,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9937003754,
+      "lat": 36.896188,
+      "lon": 30.674033,
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "24A Kat:1 Daire:66",
+        "addr:neighbourhood": "Soğuksu Mah",
+        "addr:postcode": "07030",
+        "addr:street": "Tarık Akıltopu Adabel Sitesi A Blok",
+        "amenity": "clinic",
+        "description": "Antalya Çocuk Psikiyatristi, Antalya Genç Psikiyatristi, Antalya Bebek Psikiyatristi, Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları, Uzman Doktor Mihriban Ünay Kliğini, Muayenehanesi",
+        "email": "mihribanunay@gmail.com",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "child_psychiatry;children;psychotherapist",
+        "image": "https://www.mihribanunay.com/images/MihribanFoto/MihribanHakkimda.png",
+        "internet_access": "wlan",
+        "name": "Uzm. Dr. Mihriban ÜNAY Çocuk ve Genç Psikiyatristi | Psikoterapist",
+        "operator": "Uzm. Dr. Mihriban Ünay Çocuk ve Genç Psikiyatri Muayenehanesi",
+        "operator:type": "private",
+        "phone": "+90 546 1771 546",
+        "website": "https://www.mihribanunay.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10221699017,
+      "lat": 36.9103224,
+      "lon": 30.6463341,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Selahattin Topçu Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10223512046,
+      "lat": 36.8555602,
+      "lon": 30.6243566,
+      "tags": {
+        "amenity": "drinking_water",
+        "capacity": "2",
+        "man_made": "water_tap",
+        "seasonal": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10293031296,
+      "lat": 36.8724606,
+      "lon": 30.6450499,
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2022-12-28",
+        "name": "Nisantasi kids"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11167384004,
+      "lat": 36.8856363,
+      "lon": 30.622453,
+      "tags": {
+        "amenity": "school",
+        "name": "İstek Okulları"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11293367682,
+      "lat": 36.8566024,
+      "lon": 30.7851577,
+      "tags": {
+        "amenity": "kindergarten",
+        "check_date": "2023-10-27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11601268478,
+      "lat": 36.9542406,
+      "lon": 30.6305685,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11811931087,
+      "lat": 36.9493437,
+      "lon": 30.627863,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Aşır Aksu Ek Hizmet Binası",
+        "website": "https://antalyaataturkdh.saglik.gov.tr/TR-208155/asir-aksu-hizmet-binamiz.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11941766719,
+      "lat": 36.9202092,
+      "lon": 30.6669785,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12176953104,
+      "lat": 36.8600606,
+      "lon": 30.7989649,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Eye Surgery Antalya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12176953105,
+      "lat": 36.8591124,
+      "lon": 30.797495,
+      "tags": {
+        "addr:city": "antalya",
+        "addr:district": "muratpaşa",
+        "addr:housenumber": "75",
+        "addr:neighbourhood": "Güzeloba",
+        "addr:postcode": "07230",
+        "addr:street": "2246 Sokak",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "laser_eye_surgery;trifocal_lens_surgery;blepharoplasty_surgery;eyelid_surgery",
+        "name": "Eye Surgery Antalya",
+        "operator": "Güzeloba, 2246. Sk. No:75, 07230 Muratpaşa/Antalya",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12241874986,
+      "lat": 36.8895947,
+      "lon": 30.7380816,
+      "tags": {
+        "amenity": "school",
+        "name": "Renk okulları"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12241935472,
+      "lat": 36.8805697,
+      "lon": 30.7390295,
+      "tags": {
+        "amenity": "school",
+        "name": "Güneş Kokeji"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12241937359,
+      "lat": 36.8809547,
+      "lon": 30.7388271,
+      "tags": {
+        "amenity": "school",
+        "name": "On adım eğitim bilimleri",
+        "website": "https://www.egitimbilimleri.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12255754385,
+      "lat": 36.886001,
+      "lon": 30.7317093,
+      "tags": {
+        "amenity": "school",
+        "name": "Antalya Akant Okulları"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12311232138,
+      "lat": 36.8545768,
+      "lon": 30.7820094,
+      "tags": {
+        "amenity": "drinking_water",
+        "man_made": "water_tap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12311232139,
+      "lat": 36.8547236,
+      "lon": 30.7822431,
+      "tags": {
+        "amenity": "drinking_water",
+        "man_made": "water_tap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12397948201,
+      "lat": 36.8922666,
+      "lon": 30.6915823,
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Muratpaşa Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12528840006,
+      "lat": 36.8565213,
+      "lon": 30.6230023,
+      "tags": {
+        "amenity": "drinking_water",
+        "capacity": "2",
+        "man_made": "water_tap",
+        "seasonal": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13100391314,
+      "lat": 36.8795881,
+      "lon": 30.724646,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Özel Renkli Düşler Akademisi Anaokulu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13307127620,
+      "lat": 36.8592558,
+      "lon": 30.7888781,
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "15",
+        "addr:neighbourhood": "Güzeloba Mah.",
+        "addr:postcode": "07230",
+        "addr:street": "2130 Sokak",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "cinsel saglık hattı merkezi",
+        "operator": "cinsel saglık merkezi",
+        "website": "https://cinselsaglikhatti.com.tr/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13904136202,
+      "lat": 36.8611795,
+      "lon": 30.6325339,
+      "tags": {
+        "amenity": "school",
+        "name": "Halit Uluç İmam Hatip Ortaokulu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13950644801,
+      "lat": 36.8823685,
+      "lon": 30.6726783,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13960310001,
+      "lat": 36.862149,
+      "lon": 30.6295823,
+      "tags": {
+        "addr:housenumber": "193",
+        "addr:postcode": "07070",
+        "addr:street": "Atatürk Bulvarı",
+        "amenity": "school",
+        "name": "Yönder Okulları Konyaaltı",
+        "opening_hours": "Mo-Sa 08:30-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14108029973,
+      "lat": 36.8880417,
+      "lon": 30.6764575,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206502906,
+      "center": {
+        "lat": 36.8858327,
+        "lon": 30.7386182
+      },
+      "nodes": [
+        2165118741,
+        2165118745,
+        2165118743,
+        2165118747,
+        2165118741
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "amenity": "school",
+        "check_date": "2024-10-10",
+        "name": "Envar Eğitim Kurumları"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206502977,
+      "center": {
+        "lat": 36.8854618,
+        "lon": 30.7399663
+      },
+      "nodes": [
+        2165119265,
+        2165119262,
+        2165119264,
+        12231386861,
+        2165119261,
+        3724246057,
+        2165119263,
+        2165119265
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "MedStar Topçular Hastanesi",
+        "name:en": "MedStar Hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221701822,
+      "center": {
+        "lat": 36.9227683,
+        "lon": 30.6773908
+      },
+      "nodes": [
+        2307468827,
+        2307468828,
+        2307468829,
+        2307468830,
+        2307468831,
+        2307468832,
+        2307468833,
+        2307468834,
+        2307468827
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:street": "4699. Sokak",
+        "amenity": "school",
+        "grades": "5-8",
+        "name": "Alaeddin Keykubat Ortaokulu",
+        "operator": "Milli Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "public",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 331 22 00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 299684058,
+      "center": {
+        "lat": 36.8840215,
+        "lon": 30.7102104
+      },
+      "nodes": [
+        3037262923,
+        3037262924,
+        4407164550,
+        3037262929,
+        6244690633,
+        3037262925,
+        4407164558,
+        3037262928,
+        3037262926,
+        3037262923
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "45",
+        "addr:neighbourhood": "Haşim İşcan Mah.",
+        "addr:street": "Arık Caddesi",
+        "amenity": "school",
+        "building:levels": "9,10,11,12",
+        "name": "Antalya Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 244 26 23",
+        "website": "https://antalyalisesi.meb.k12.tr/",
+        "wikidata": "Q6046157",
+        "wikipedia": "tr:Antalya Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303574717,
+      "center": {
+        "lat": 36.9308211,
+        "lon": 30.7413103
+      },
+      "nodes": [
+        3079637170,
+        3079637171,
+        3079637172,
+        3079637173,
+        3079637170
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Şehit Kahraman Çelikbaş Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 339 70 30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321793912,
+      "center": {
+        "lat": 36.8930595,
+        "lon": 30.6209731
+      },
+      "nodes": [
+        3285619852,
+        3285619853,
+        3285619854,
+        3285619855,
+        3285619852
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Konyaaltı",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Uncalı Meydan Hastanesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321800489,
+      "center": {
+        "lat": 36.9074075,
+        "lon": 30.6443503
+      },
+      "nodes": [
+        3285692327,
+        3285692328,
+        3285692329,
+        3285692330,
+        3285692327
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Toros Mesleki ve Teknik Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321800490,
+      "center": {
+        "lat": 36.9079309,
+        "lon": 30.644954
+      },
+      "nodes": [
+        3285692330,
+        3285692331,
+        3285692332,
+        3285692333,
+        3285692329,
+        3285692330
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "61",
+        "addr:street": "4305. Sokak",
+        "amenity": "school",
+        "name": "Hüsniye Özdilek Mesleki ve Teknik Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 227 81 18",
+        "website": "https://husniyeozdilektml.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321804048,
+      "center": {
+        "lat": 36.8901746,
+        "lon": 30.677894
+      },
+      "nodes": [
+        3285731358,
+        6505650051,
+        6505650050,
+        3721270734,
+        3721270759,
+        3721270735,
+        3285731359,
+        3285731360,
+        3285734261,
+        3285734262,
+        3285734263,
+        6505650052,
+        3285731358
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "Kazım Karabekir Caddesi",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Antalya Eğitim Ve Araştırma Hastanesi",
+        "name:en": "Training and Research Hospital",
+        "name:ku": "Nexweşxaneya Perwerde û Lêkolînê ya Antalyayê",
+        "name:ru": "Учебно-исследовательский госпиталь",
+        "wikidata": "Q30279759"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321813595,
+      "center": {
+        "lat": 36.8958534,
+        "lon": 30.7128344
+      },
+      "nodes": [
+        3285845164,
+        3285845165,
+        3285845166,
+        3285845167,
+        3285845168,
+        3285845169,
+        3285845170,
+        3285845164
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:street": "Adnan Menderes Bulvarı",
+        "amenity": "school",
+        "name": "75. Yıl Cumhuriyet Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 312 66 98"
+      }
+    },
+    {
+      "type": "way",
+      "id": 354880338,
+      "center": {
+        "lat": 36.9142545,
+        "lon": 30.6911761
+      },
+      "nodes": [
+        3605292859,
+        3605292863,
+        3605292857,
+        3605292847,
+        3605292859
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "96",
+        "addr:neighbourhood": "Yükseliş Mah.",
+        "addr:street": "Mehmet Akif Caddesi",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Özel Ofm Hastanesi",
+        "phone": "444 5 007",
+        "website": "https://www.ofmantalya.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368146759,
+      "center": {
+        "lat": 36.9122668,
+        "lon": 30.6984497
+      },
+      "nodes": [
+        3720059254,
+        3720059255,
+        3720059256,
+        3720059258,
+        3720059259,
+        3720059260,
+        3720059261,
+        3720059262,
+        3720059263,
+        3720059264,
+        3720059265,
+        3720059266,
+        3720059254
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368148972,
+      "center": {
+        "lat": 36.8951067,
+        "lon": 30.6749196
+      },
+      "nodes": [
+        3720080239,
+        3720080240,
+        3720080241,
+        3720080242,
+        3720080243,
+        3720080239
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Muratpaşa Türk Telekom Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368148973,
+      "center": {
+        "lat": 36.8951476,
+        "lon": 30.6759361
+      },
+      "nodes": [
+        3720080242,
+        3720080244,
+        3720080245,
+        3720080241,
+        3720080242
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Muratpaşa Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368155247,
+      "center": {
+        "lat": 36.8873395,
+        "lon": 30.680156
+      },
+      "nodes": [
+        3720131497,
+        3720131498,
+        3720131499,
+        3720131500,
+        3720131497
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "amenity": "school",
+        "name": "Meryem Mustafa Ege İlköğretim Okulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368282383,
+      "center": {
+        "lat": 36.8982434,
+        "lon": 30.6918134
+      },
+      "nodes": [
+        3721290138,
+        3721290139,
+        3721290140,
+        3721290141,
+        3721290142,
+        3721290143,
+        3721290144,
+        3721290145,
+        3721290138
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Antalya Atatürk Devlet Hastanesi",
+        "name:en": "Antalya Atatürk Public Hospital",
+        "name:ru": "Государственная Больница Atatürk",
+        "phone": "+90 242 345 45 50"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368282494,
+      "center": {
+        "lat": 36.8976078,
+        "lon": 30.6924522
+      },
+      "nodes": [
+        3721290968,
+        3721290969,
+        3721290970,
+        3721290971,
+        3721290968
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "amenity": "school",
+        "name": "Mehmet Akif Ersoy İmam Hatip Ortaokulu",
+        "phone": "+90242 345 44 97"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368404977,
+      "center": {
+        "lat": 36.8974808,
+        "lon": 30.6617434
+      },
+      "nodes": [
+        3722469874,
+        3722469875,
+        3722469876,
+        3722469877,
+        13416806229,
+        13416806228,
+        3722469878,
+        3722469879,
+        3722469880,
+        9156308546,
+        4570002871,
+        3722469881,
+        3722469882,
+        3722469883,
+        5431392303,
+        3722469874
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Akdeniz Üniversitesi Hastanesi",
+        "wikidata": "Q30253916"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368404984,
+      "center": {
+        "lat": 36.8928317,
+        "lon": 30.6247405
+      },
+      "nodes": [
+        3722469920,
+        3722469921,
+        3722469922,
+        3722469923,
+        3722469924,
+        3722469920
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368404986,
+      "center": {
+        "lat": 36.8927577,
+        "lon": 30.6288817
+      },
+      "nodes": [
+        3722470434,
+        3722470435,
+        3722470436,
+        3722470437,
+        3722470438,
+        3722470434
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Konyaaltı",
+        "amenity": "school",
+        "name": "Leyla Kahraman Sevim Ertenü Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 227 90 97"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368408060,
+      "center": {
+        "lat": 36.8709376,
+        "lon": 30.6342607
+      },
+      "nodes": [
+        3722495272,
+        3722495273,
+        3722495274,
+        3722495275,
+        3722495276,
+        3722495277,
+        3722495278,
+        3722495272
+      ],
+      "tags": {
+        "addr:city": "Konyalatı/Antalya",
+        "addr:housenumber": "48",
+        "addr:neighbourhood": "Öğretmen Evleri Mah.",
+        "addr:street": "460. Sokak",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Özel Olimpos Hastanesi",
+        "name:en": "Private hospital Olimpos",
+        "name:ru": "Частная больница Олимпос",
+        "opening_hours": "Mo-Fr 09:00-22:00",
+        "phone": "+90 242 228 09 09",
+        "website": "https://www.olimposhastanesi.com.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368449790,
+      "center": {
+        "lat": 36.8810708,
+        "lon": 30.6452613
+      },
+      "nodes": [
+        3722853500,
+        3722853501,
+        3722853502,
+        3722853503,
+        6215644987,
+        6215644990,
+        6215644988,
+        3722853500
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Konyaaltı",
+        "addr:housenumber": "17",
+        "addr:neighbourhood": "Toros Mahallesi",
+        "addr:postcode": "07070",
+        "addr:street": "819. Sokak",
+        "amenity": "school",
+        "name": "Akdeniz Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 228 88 80",
+        "website": "https://akdenizanadolulisesi.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368449794,
+      "center": {
+        "lat": 36.8641634,
+        "lon": 30.6254415
+      },
+      "nodes": [
+        3722853522,
+        3722853523,
+        3722853524,
+        3722854325,
+        3722854326,
+        3722853522
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Konyaaltı",
+        "addr:neighbourhood": "Gürsu Mah.",
+        "addr:street": "354. Sokak",
+        "amenity": "school",
+        "name": "Gazi Mustafa Kemal İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 228 64 77",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368453329,
+      "center": {
+        "lat": 36.8870711,
+        "lon": 30.7189547
+      },
+      "nodes": [
+        3722897455,
+        3722897456,
+        3722897457,
+        3722897458,
+        3722897459,
+        3722897455
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "addr:housenumber": "No: 8",
+        "addr:postcode": "07100",
+        "addr:street": "1352. Sokak",
+        "amenity": "hospital",
+        "contact:facebook": "https://facebook.com/pages/Anatolia%20Hospital/472389483122394",
+        "contact:instagram": "anatoliahospitals",
+        "email": "info@anatoliahospital.com",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Özel Antalya Anadolu Hastanesi",
+        "name:en": "Private Antalya Anatolia Hospital",
+        "opening_hours": "24/7",
+        "phone": "444 9 112",
+        "website": "https://anatoliahospital.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368454342,
+      "center": {
+        "lat": 36.8882047,
+        "lon": 30.7331264
+      },
+      "nodes": [
+        3722937382,
+        3722937383,
+        3722937390,
+        10047443851,
+        3722937385,
+        3722937382
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "27",
+        "addr:neighbourhood": "Kızıltoprak Mah.",
+        "addr:postcode": "07300",
+        "addr:street": "921. Sokak",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency;gynaecology;dermatology;surgery;cardiology;radiology;orthopaedics;intensive",
+        "name": "Özel Rich Hastanesi",
+        "operator": "ATM Özel Sağlık Hizmetleri",
+        "operator:type": "private",
+        "website": "https://www.richhospital.com.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368454343,
+      "center": {
+        "lat": 36.888058,
+        "lon": 30.7322689
+      },
+      "nodes": [
+        3722937382,
+        3722937386,
+        3722937387,
+        3722937388,
+        3722937389,
+        3722937383,
+        3722937382
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "4",
+        "addr:postcode": "07300",
+        "addr:street": "Aspendos Bulvarı, 923. Sokak",
+        "amenity": "school",
+        "contact:facebook": "mncal",
+        "contact:instagram": "mncal_07",
+        "internet_access": "wlan",
+        "name": "Metin-Nuran Çakalıklı Anadolu Lisesi",
+        "name:en": "Metin-Nuran Çakallıklı Anatolian High School",
+        "opening_hours": "Mo 08:30-17:30; Tu 08:30-17:30; We 08:30-17:30; Th 08:30-17:30; Fr 08:30-17:30; Sa off; Su off",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 322 40 00",
+        "website": "https://mncal.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368463411,
+      "center": {
+        "lat": 36.8628732,
+        "lon": 30.7307663
+      },
+      "nodes": [
+        3723136045,
+        3723136046,
+        3723136047,
+        3723136048,
+        3723136045
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "Şirinyalı Mahallesi",
+        "addr:street": "1487 Sokak",
+        "amenity": "hospital",
+        "email": "fadilaksu@lifehospital.com.tr",
+        "emergency": "yes",
+        "fax": "+90 242 310 80 70",
+        "healthcare": "hospital",
+        "name": "Özel Yaşam Hastanesi, Antalya (Life Hospital)",
+        "phone": "+90 242 212 02 12",
+        "website": "https://www.yasamhastaneleri.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368652503,
+      "center": {
+        "lat": 36.951855,
+        "lon": 30.7297491
+      },
+      "nodes": [
+        3725044896,
+        3725044897,
+        3725044898,
+        3725044899,
+        3725044900,
+        3725044896
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 393902151,
+      "center": {
+        "lat": 36.9062119,
+        "lon": 30.6990645
+      },
+      "nodes": [
+        3969479983,
+        3969479986,
+        3969479984,
+        3969479985,
+        3969479983
+      ],
+      "tags": {
+        "amenity": "clinic",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Sağlık Ocağı"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426562915,
+      "center": {
+        "lat": 36.9144969,
+        "lon": 30.7029143
+      },
+      "nodes": [
+        4258496561,
+        4258496562,
+        6197396886,
+        6197396889,
+        6197396887,
+        4258496563,
+        4258496564,
+        4258496561
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "45",
+        "addr:neighbourhood": "Karşıyaka Mah.",
+        "addr:street": "3910. Sokak",
+        "amenity": "school",
+        "name": "Perihan Esat Aral Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 57 33"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426731459,
+      "center": {
+        "lat": 36.8863268,
+        "lon": 30.7344193
+      },
+      "nodes": [
+        4259977501,
+        4259977502,
+        4259977503,
+        4259977507,
+        4259977504,
+        4259977505,
+        4259977506,
+        4259977501
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426731460,
+      "center": {
+        "lat": 36.8866009,
+        "lon": 30.7353981
+      },
+      "nodes": [
+        12256462062,
+        4259977508,
+        4259977509,
+        4259977510,
+        4259977511,
+        4259977512,
+        4259977513,
+        12256462060,
+        12256462061,
+        12256462062
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426731462,
+      "center": {
+        "lat": 36.890934,
+        "lon": 30.7236998
+      },
+      "nodes": [
+        4259977526,
+        4259977527,
+        4259977528,
+        4259977529,
+        4259977530,
+        4259977531,
+        4259977526
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "911. Sokak",
+        "amenity": "school",
+        "name": "Nadire Konuk Ve Ali Oğuz Konuk Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426731463,
+      "center": {
+        "lat": 36.8906606,
+        "lon": 30.7225475
+      },
+      "nodes": [
+        4259977532,
+        4259977526,
+        4259977527,
+        4259977528,
+        4259977533,
+        6173538208,
+        4259977534,
+        6173538209,
+        4259977532
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "16",
+        "addr:neighbourhood": "Kızıltoprak Mah.",
+        "addr:street": "912. Sokak",
+        "amenity": "school",
+        "name": "Aldemir Atilla Konuk Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426752879,
+      "center": {
+        "lat": 36.8567477,
+        "lon": 30.7441772
+      },
+      "nodes": [
+        4260143085,
+        4260143086,
+        4260143087,
+        4260143088,
+        4260143589,
+        4260143085
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "amenity": "school",
+        "name": "Kocademir Ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426766031,
+      "center": {
+        "lat": 36.8609932,
+        "lon": 30.7417705
+      },
+      "nodes": [
+        4260263672,
+        4260263673,
+        4260263674,
+        4260263675,
+        4260263676,
+        4260263677,
+        4260263679,
+        4260263681,
+        4260263678,
+        4260263672
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Otistik Çocuklar Eğitim Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426766032,
+      "center": {
+        "lat": 36.8599862,
+        "lon": 30.7410185
+      },
+      "nodes": [
+        4260263684,
+        4260263685,
+        4260263686,
+        4260263687,
+        4260263688,
+        4260263684
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "amenity": "school",
+        "name": "Ramazan Savaş İlkokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426766035,
+      "center": {
+        "lat": 36.8584819,
+        "lon": 30.7389037
+      },
+      "nodes": [
+        4260263702,
+        4260263703,
+        4260263704,
+        4260263705,
+        4260263702
+      ],
+      "tags": {
+        "addr:city": "Muratpaşa/Antalya",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Memorial Lara Tıp Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428388165,
+      "center": {
+        "lat": 36.8627222,
+        "lon": 30.7874209
+      },
+      "nodes": [
+        4274950302,
+        4274950303,
+        4274950304,
+        4274950305,
+        4274950302
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428388176,
+      "center": {
+        "lat": 36.8600161,
+        "lon": 30.7718585
+      },
+      "nodes": [
+        4274950360,
+        4274950361,
+        4274950362,
+        4274950363,
+        4274950364,
+        4274950365,
+        4274950360
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "İrfan İlk  ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428388195,
+      "center": {
+        "lat": 36.9060113,
+        "lon": 30.6420036
+      },
+      "nodes": [
+        4274950517,
+        4274950518,
+        4274950519,
+        4274950520,
+        4274950517
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428392897,
+      "center": {
+        "lat": 36.9451934,
+        "lon": 30.647291
+      },
+      "nodes": [
+        4274982806,
+        4274982807,
+        4274982811,
+        4274982809,
+        4274982810,
+        4274982806
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Süleyman Demirel Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 331 28 41"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428392899,
+      "center": {
+        "lat": 36.9287616,
+        "lon": 30.7097828
+      },
+      "nodes": [
+        4274982823,
+        4274982824,
+        4274982825,
+        13200521820,
+        4274982826,
+        4274982823
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Kepez İşitme Engelliler İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 326 31 30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428392900,
+      "center": {
+        "lat": 36.9172038,
+        "lon": 30.7330698
+      },
+      "nodes": [
+        4274982827,
+        4274982828,
+        4274982829,
+        4274982830,
+        4274982831,
+        4274982827
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Demirgül Ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 431519162,
+      "center": {
+        "lat": 36.8873974,
+        "lon": 30.6912277
+      },
+      "nodes": [
+        4307277091,
+        4307277090,
+        4307277102,
+        4307277100,
+        4307277139,
+        4307277141,
+        4307277091
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Ahmet Bileydi İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 248 46 19",
+        "source": "mapbox"
+      }
+    },
+    {
+      "type": "way",
+      "id": 431891700,
+      "center": {
+        "lat": 36.9434145,
+        "lon": 30.6481411
+      },
+      "nodes": [
+        4311242173,
+        4311242174,
+        4311242177,
+        4311242178,
+        4311242175,
+        4311242176,
+        4311242172,
+        4311242171,
+        4311242169,
+        4311242170,
+        4311242164,
+        4311242163,
+        4311242160,
+        4311242159,
+        4311242162,
+        4311242161,
+        4311242165,
+        4311242166,
+        4311242168,
+        4311242167,
+        4311242173
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Pakize - Yahya Erkun Aile Sağlık Merkezi",
+        "source": "mapbox"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441771634,
+      "center": {
+        "lat": 36.8529703,
+        "lon": 30.7573833
+      },
+      "nodes": [
+        4394743641,
+        4394743642,
+        4394743643,
+        4394743644,
+        4394743641
+      ],
+      "tags": {
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Ticaret Borsası Semt Polikliniği"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441771636,
+      "center": {
+        "lat": 36.8533674,
+        "lon": 30.7596994
+      },
+      "nodes": [
+        4394743645,
+        4394743646,
+        4394743647,
+        4394743651,
+        4394743650,
+        4394743645
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Antalya Ticaret Borsası Mesleki ve Teknik Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441771639,
+      "center": {
+        "lat": 36.8539823,
+        "lon": 30.7595276
+      },
+      "nodes": [
+        4394743649,
+        4394743650,
+        4394743651,
+        6052358838,
+        4394743656,
+        4394743649
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Vali Hüsnü Tuğlu İlkokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441771643,
+      "center": {
+        "lat": 36.8544415,
+        "lon": 30.7563946
+      },
+      "nodes": [
+        5416815468,
+        4394743662,
+        4394743657,
+        4394743658,
+        5416815468
+      ],
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "1988 Sokak",
+        "amenity": "clinic",
+        "building": "hospital",
+        "building:levels": "5",
+        "healthcare": "clinic",
+        "healthcare:speciality": "surgery;internal",
+        "name": "Gastrocer Cerahi Merkezi",
+        "opening_hours": "Mo-Sa 09:00-18:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 461540970,
+      "center": {
+        "lat": 36.9083242,
+        "lon": 30.710282
+      },
+      "nodes": [
+        4570154781,
+        4570154782,
+        4570154783,
+        4570154784,
+        4570154781
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Vali Saim Çotur 3. Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 465171662,
+      "center": {
+        "lat": 36.8686327,
+        "lon": 30.6278882
+      },
+      "nodes": [
+        4601684129,
+        4601684130,
+        4601684131,
+        4601684132,
+        4601684129
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Şehit Teğmen Ayfer Gök Anaokulu",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 465171689,
+      "center": {
+        "lat": 36.8774365,
+        "lon": 30.6401954
+      },
+      "nodes": [
+        4601684364,
+        4601684365,
+        4601684366,
+        4601684367,
+        4601684368,
+        4601684369,
+        4601684364
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Dr Cahit Ünver ilkokulu - ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467392228,
+      "center": {
+        "lat": 36.8703122,
+        "lon": 30.6504444
+      },
+      "nodes": [
+        4620203028,
+        4620203029,
+        4620203030,
+        4620203031,
+        4620203028
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Z. Marsel-Z. Denizhan Öner İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467437191,
+      "center": {
+        "lat": 36.8763211,
+        "lon": 30.6531273
+      },
+      "nodes": [
+        4620562963,
+        4620562964,
+        4620562965,
+        4620562966,
+        4620562967,
+        4620562968,
+        4620562963
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Özel Şifa Anadolu SML"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467442220,
+      "center": {
+        "lat": 36.8937108,
+        "lon": 30.6826545
+      },
+      "nodes": [
+        4620603564,
+        6183665586,
+        6183665591,
+        6183665588,
+        4620603565,
+        4620603566,
+        4620603567,
+        4620603564
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "Piri Reis Caddesi",
+        "amenity": "school",
+        "name": "Ertuğrul Gazi İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467442221,
+      "center": {
+        "lat": 36.893202,
+        "lon": 30.6828121
+      },
+      "nodes": [
+        4620603565,
+        6183665589,
+        6183665594,
+        6183665587,
+        4620603568,
+        4620603569,
+        4620603566,
+        4620603565
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "Piri Reis Caddesi",
+        "amenity": "school",
+        "name": "Fatih Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 345 16 75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469035855,
+      "center": {
+        "lat": 36.920227,
+        "lon": 30.7328156
+      },
+      "nodes": [
+        4634511061,
+        4634511062,
+        4634511063,
+        4634511064,
+        4634511065,
+        4634511061
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "2",
+        "addr:neighbourhood": "Güneş Mah.",
+        "addr:street": "6028. Sokak",
+        "amenity": "school",
+        "name": "Şehit Ömer Dikmen Çok Programlı Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 338 38 83",
+        "website": "https://somerdikmentml.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 476076007,
+      "center": {
+        "lat": 36.9506395,
+        "lon": 30.7169118
+      },
+      "nodes": [
+        4697284900,
+        4697284901,
+        4697284902,
+        4697284903,
+        4697284904,
+        4697284905,
+        4697284906,
+        4697284907,
+        4697284908,
+        4697284909,
+        4697284900
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Şehit Serhat Genç İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 510095566,
+      "center": {
+        "lat": 36.9383418,
+        "lon": 30.7386759
+      },
+      "nodes": [
+        4991829992,
+        4991829993,
+        4991829994,
+        4991829995,
+        4991829996,
+        4991829997,
+        4991829998,
+        4991829999,
+        4991830000,
+        4991830001,
+        4991830002,
+        4991829992
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 544139400,
+      "center": {
+        "lat": 36.9061702,
+        "lon": 30.7258712
+      },
+      "nodes": [
+        5260005096,
+        5260005097,
+        6177096983,
+        6177096984,
+        5260005098,
+        6177096998,
+        6177096997,
+        5260005099,
+        5260005096
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Mevlana İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 631851563,
+      "center": {
+        "lat": 36.9318885,
+        "lon": 30.7270359
+      },
+      "nodes": [
+        5966304255,
+        6162851288,
+        6162851287,
+        5966304256,
+        5966304257,
+        5966304258,
+        5966304259,
+        5966304260,
+        5966304261,
+        5966304262,
+        5966304255
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "124",
+        "addr:neighbourhood": "Hüsnü Karakaş",
+        "addr:postcode": "07320",
+        "addr:street": "15 Temmuz Şehitler Caddesi",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Kepez Devlet Hastanesi",
+        "operator": "Sağlık Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q4294365",
+        "operator:wikipedia": "tr:Türkiye Cumhuriyeti Sağlık Bakanlığı"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633932663,
+      "center": {
+        "lat": 36.8710691,
+        "lon": 30.6286652
+      },
+      "nodes": [
+        5983477412,
+        5983477413,
+        5983477414,
+        5983477415,
+        5983477412
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Küçük Şeyler"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633983547,
+      "center": {
+        "lat": 36.8848197,
+        "lon": 30.6206393
+      },
+      "nodes": [
+        5983896746,
+        5983896747,
+        5983896748,
+        5983896749,
+        5983896750,
+        5983896751,
+        5983896746
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 634355542,
+      "center": {
+        "lat": 36.8840092,
+        "lon": 30.650144
+      },
+      "nodes": [
+        5986703656,
+        5986703657,
+        5986703658,
+        5986703659,
+        5986703660,
+        5986703661,
+        6215644923,
+        6215644926,
+        6215644924,
+        5986703656
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Abdurrahman Neriman Bileydi Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 640913820,
+      "center": {
+        "lat": 36.9045338,
+        "lon": 30.6609959
+      },
+      "nodes": [
+        6036984826,
+        6036984827,
+        6036984828,
+        6036984829,
+        6036984830,
+        6036984831,
+        6036984832,
+        6036984833,
+        6036984834,
+        6036984826
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Sefa Akın Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 642915403,
+      "center": {
+        "lat": 36.8559927,
+        "lon": 30.7576081
+      },
+      "nodes": [
+        5553979197,
+        5553979193,
+        5553979196,
+        5553979179,
+        5553979182,
+        5553979160,
+        5553979197
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:neighbourhood": "Fener Mah.",
+        "addr:postcode": "07160",
+        "addr:street": "1974 Sokak",
+        "amenity": "school",
+        "name": "Özel Başar Eğitim Kurumları",
+        "operator": "Başar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 647402246,
+      "center": {
+        "lat": 36.9335229,
+        "lon": 30.7484507
+      },
+      "nodes": [
+        6079970651,
+        6079970652,
+        6079970653,
+        6079970654,
+        6079970655,
+        6079970656,
+        6079970657,
+        6079970658,
+        6079970659,
+        6079970660,
+        6079970651
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 648247937,
+      "center": {
+        "lat": 36.8761837,
+        "lon": 30.7138256
+      },
+      "nodes": [
+        6086294328,
+        6086294329,
+        6086294330,
+        6086294331,
+        6086294332,
+        6086294333,
+        6086294334,
+        6086294328
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Mehmet Kesikçi İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 648247990,
+      "center": {
+        "lat": 36.8713528,
+        "lon": 30.7203449
+      },
+      "nodes": [
+        6086299591,
+        6086299592,
+        6086299593,
+        6086299594,
+        6086299595,
+        6086299596,
+        6086299591
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 648491909,
+      "center": {
+        "lat": 36.925383,
+        "lon": 30.7484324
+      },
+      "nodes": [
+        6088211299,
+        6088211300,
+        6088211301,
+        6088211302,
+        6088211303,
+        6088211299
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "education": "school",
+        "name": "Beşkonak İlkokulu",
+        "name:tr": "Beşkonak İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 648491950,
+      "center": {
+        "lat": 36.9137942,
+        "lon": 30.7800019
+      },
+      "nodes": [
+        6088211622,
+        6088211623,
+        6088211624,
+        6088211625,
+        6088211626,
+        6088211627,
+        6088211622
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "TED Koleji"
+      }
+    },
+    {
+      "type": "way",
+      "id": 648557600,
+      "center": {
+        "lat": 36.8785951,
+        "lon": 30.7265147
+      },
+      "nodes": [
+        6088759538,
+        6088759539,
+        6088759540,
+        12260623199,
+        12260623200,
+        12260623198,
+        12260623197,
+        6088759541,
+        6088759542,
+        6088759538
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Şehit Muhammet Oğuz Kılınç Anadolu Imam Hatip Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 649256787,
+      "center": {
+        "lat": 36.913741,
+        "lon": 30.6631924
+      },
+      "nodes": [
+        6093544885,
+        6093544886,
+        6093544887,
+        6144449713,
+        6144449716,
+        6144449714,
+        6093544888,
+        6093544889,
+        6093544885
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Kepez İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 649263083,
+      "center": {
+        "lat": 36.9320441,
+        "lon": 30.7291271
+      },
+      "nodes": [
+        6093590211,
+        6093590212,
+        6093590213,
+        6093590214,
+        6093590218,
+        6093590215,
+        6093590216,
+        6093590217,
+        6093590211
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Nebi Güney İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 338 11 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 649263085,
+      "center": {
+        "lat": 36.9376307,
+        "lon": 30.719429
+      },
+      "nodes": [
+        6093590220,
+        6093590221,
+        6222886045,
+        6093590222,
+        6222886037,
+        6222886039,
+        6222886036,
+        6093590223,
+        6093590224,
+        6222886042,
+        6093590225,
+        6093590220
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Metin Çiviler Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 326 75 83"
+      }
+    },
+    {
+      "type": "way",
+      "id": 649263086,
+      "center": {
+        "lat": 36.9220482,
+        "lon": 30.6965317
+      },
+      "nodes": [
+        6093590226,
+        6093590227,
+        6093590228,
+        6093590229,
+        6093590230,
+        6093590231,
+        6093590232,
+        6093590233,
+        6093590234,
+        6093590235,
+        6093590236,
+        6093590226
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Prof.Dr. Raşit Küçük Anadolu İmam Hatip Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 649263087,
+      "center": {
+        "lat": 36.9225717,
+        "lon": 30.6966085
+      },
+      "nodes": [
+        6093590227,
+        6093590237,
+        6093590238,
+        6093590239,
+        6225749777,
+        6093590234,
+        6093590235,
+        6093590236,
+        6093590226,
+        6093590227
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Şehit Ali Daniyar Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651035989,
+      "center": {
+        "lat": 36.9121804,
+        "lon": 30.6398381
+      },
+      "nodes": [
+        6105854616,
+        6105854617,
+        6105854618,
+        6105854619,
+        6105854616
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Yıldırım Beyazıd İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 227 43 83"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651067873,
+      "center": {
+        "lat": 36.9121267,
+        "lon": 30.644025
+      },
+      "nodes": [
+        6106107502,
+        6106107503,
+        6106107504,
+        6106107505,
+        6106107502
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Turgut Reis Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651086093,
+      "center": {
+        "lat": 36.9118387,
+        "lon": 30.6484653
+      },
+      "nodes": [
+        6106233593,
+        6106233594,
+        6106233595,
+        8314561547,
+        6106233596,
+        6106233593
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Ahatlı İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651590484,
+      "center": {
+        "lat": 36.9164918,
+        "lon": 30.6446247
+      },
+      "nodes": [
+        6109867656,
+        6109867657,
+        6109867658,
+        6109867659,
+        6109867660,
+        6109867656
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Kepez Özel Eğitim Uygulama Merkezi H.Kademe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651590502,
+      "center": {
+        "lat": 36.9379315,
+        "lon": 30.6650926
+      },
+      "nodes": [
+        6109867845,
+        6109867846,
+        6435320644,
+        6440277288,
+        6435320645,
+        6109867847,
+        6109867848,
+        6109867849,
+        6109867850,
+        12824621565,
+        6109867845
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "13",
+        "addr:neighbourhood": "Çamlıbel Mah.",
+        "addr:street": "4904. Sokak",
+        "amenity": "school",
+        "name": "Şehit Muhittin Talha Çalışkan Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 332 99 33"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651590506,
+      "center": {
+        "lat": 36.9242805,
+        "lon": 30.6859373
+      },
+      "nodes": [
+        6109867862,
+        6109867863,
+        6109867864,
+        6109867865,
+        6109867862
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Prof. İhsan Koz İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 326 46 10"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651590513,
+      "center": {
+        "lat": 36.9177149,
+        "lon": 30.6934749
+      },
+      "nodes": [
+        6109868012,
+        6109868013,
+        6109868014,
+        6109868015,
+        6109868016,
+        6109868017,
+        6109868018,
+        6109868019,
+        6109868012
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "91",
+        "addr:neighbourhood": "Zafer Mah.",
+        "addr:street": "Yıldırım Beyazıt Caddesi",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Memorial Antalya Hastanesi",
+        "name:en": "Memorial Antalya Hospital",
+        "phone": "+90 242 314 66 66"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651600750,
+      "center": {
+        "lat": 36.9181959,
+        "lon": 30.724506
+      },
+      "nodes": [
+        6109940914,
+        6109940915,
+        6109940916,
+        6109940917,
+        6109940914
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "İsmail Hakkı Kaya Ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651698535,
+      "center": {
+        "lat": 36.9433844,
+        "lon": 30.7441121
+      },
+      "nodes": [
+        6110816102,
+        6110816103,
+        6110816104,
+        6110816105,
+        6110816106,
+        6110816102
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "education": "school",
+        "name": "Baraj Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651861634,
+      "center": {
+        "lat": 36.9260716,
+        "lon": 30.7205815
+      },
+      "nodes": [
+        6112250417,
+        6112250418,
+        6112250419,
+        6112250420,
+        6112250421,
+        6112250422,
+        6112250417
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Şerife Tufan İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651861635,
+      "center": {
+        "lat": 36.9258495,
+        "lon": 30.7210438
+      },
+      "nodes": [
+        6112250420,
+        6112250421,
+        6112250423,
+        6112250424,
+        6112250419,
+        6112250420
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Mehmet Akif Ersoy Anaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652166155,
+      "center": {
+        "lat": 36.9090414,
+        "lon": 30.7001497
+      },
+      "nodes": [
+        6114639084,
+        6114639285,
+        6114639286,
+        6114639287,
+        6114639084
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:neighbourhood": "Dutlubahçe Mah.",
+        "amenity": "school",
+        "name": "Muratpaşa Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652166187,
+      "center": {
+        "lat": 36.9086251,
+        "lon": 30.7077217
+      },
+      "nodes": [
+        6114639404,
+        6114639405,
+        6178281639,
+        6178281642,
+        6178281640,
+        6114639406,
+        6114639407,
+        6114639404
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Konuksever İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652578152,
+      "center": {
+        "lat": 36.9278683,
+        "lon": 30.707816
+      },
+      "nodes": [
+        6117681137,
+        6117681138,
+        6117681139,
+        6117681140,
+        6117681141,
+        6117681142,
+        6117681137
+      ],
+      "tags": {
+        "amenity": "school",
+        "grades": "5-8",
+        "name": "Gülgün Nihat Ömür Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652578153,
+      "center": {
+        "lat": 36.9269854,
+        "lon": 30.7079046
+      },
+      "nodes": [
+        6117681137,
+        6117681143,
+        6117681144,
+        6117681145,
+        6117681138,
+        6117681137
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Gülgün Nihat Ömür İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652578158,
+      "center": {
+        "lat": 36.9563586,
+        "lon": 30.7264693
+      },
+      "nodes": [
+        6117681177,
+        6117681178,
+        6117681179,
+        6117681180,
+        6117681181,
+        6117681182,
+        6117681183,
+        6117681184,
+        6117681177
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652738926,
+      "center": {
+        "lat": 36.9001485,
+        "lon": 30.6742108
+      },
+      "nodes": [
+        6118604810,
+        6118604811,
+        6118604812,
+        6118604813,
+        6118604810
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Çocuk Çevresi Kreş"
+      }
+    },
+    {
+      "type": "way",
+      "id": 653373224,
+      "center": {
+        "lat": 36.9157963,
+        "lon": 30.7230542
+      },
+      "nodes": [
+        6123395184,
+        6178523396,
+        6189542794,
+        6178523395,
+        6123395285,
+        6123395286,
+        6123395287,
+        6123395288,
+        6123395289,
+        6123395184
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "5",
+        "addr:neighbourhood": "Teomanpaşa Mah.",
+        "addr:street": "2228. Sokak",
+        "amenity": "school",
+        "name": "Fatma Nur Çelik İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "website": "https://fatmanurcelikiho.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 653373228,
+      "center": {
+        "lat": 36.91438,
+        "lon": 30.7249033
+      },
+      "nodes": [
+        6123395293,
+        6123395294,
+        6123395295,
+        6123395296,
+        6123395297,
+        6123395298,
+        6123395293
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Mareşal Fevzi Çakmak İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654571004,
+      "center": {
+        "lat": 36.916859,
+        "lon": 30.6733062
+      },
+      "nodes": [
+        6133439735,
+        6133439736,
+        6133439737,
+        6133439738,
+        6133439739,
+        6133439740,
+        6133439735
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Şifa Koleji",
+        "phone": "+90 242 334 01 01"
+      }
+    },
+    {
+      "type": "way",
+      "id": 655561095,
+      "center": {
+        "lat": 36.9040064,
+        "lon": 30.6574734
+      },
+      "nodes": [
+        6142002273,
+        6142002274,
+        6142002275,
+        6142002276,
+        6142002277,
+        6142002278,
+        6142002279,
+        6142002280,
+        6142002281,
+        6142002282,
+        6142002283,
+        6142002273
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Kültür İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 655561120,
+      "center": {
+        "lat": 36.9052298,
+        "lon": 30.6604142
+      },
+      "nodes": [
+        6142002349,
+        6036984834,
+        6036984826,
+        6142002350,
+        6142002351,
+        6142002352,
+        6142002353,
+        6142002349
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Antalya Bilim Ve Sanat Merkezi",
+        "phone": "+90 242 229 64 54"
+      }
+    },
+    {
+      "type": "way",
+      "id": 655609683,
+      "center": {
+        "lat": 36.9078017,
+        "lon": 30.6568969
+      },
+      "nodes": [
+        6142374112,
+        6142374113,
+        6142374114,
+        6142374115,
+        6142374117,
+        6142374112
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "Kültür Mah.",
+        "addr:street": "3858. Sokak",
+        "amenity": "school",
+        "name": "Kepez Mahmut Celalettin Ökten Anadolu İmam Hatip Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 226 30 00",
+        "website": "https://kepezmcoaihl.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657506646,
+      "center": {
+        "lat": 36.8883069,
+        "lon": 30.6841313
+      },
+      "nodes": [
+        6158154940,
+        6158154941,
+        6158154942,
+        6158154944,
+        6158154945,
+        6158154946,
+        6158154947,
+        6158154948,
+        6158154940
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Gazi Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 241 80 90"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657506666,
+      "center": {
+        "lat": 36.8854324,
+        "lon": 30.6867507
+      },
+      "nodes": [
+        6158155058,
+        6158155059,
+        6158155060,
+        6158155061,
+        6158155062,
+        6158155058
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Barbaros Ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657531972,
+      "center": {
+        "lat": 36.8753557,
+        "lon": 30.715651
+      },
+      "nodes": [
+        6158335579,
+        6158335580,
+        6158335581,
+        6158335582,
+        6158335583,
+        6158335584,
+        6158335585,
+        6158335586,
+        6158335579
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Yavuz Selim Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657609788,
+      "center": {
+        "lat": 36.877694,
+        "lon": 30.7162719
+      },
+      "nodes": [
+        6158862974,
+        6158862975,
+        6158862976,
+        6158862977,
+        6158862978,
+        6158862979,
+        6158862980,
+        6158862981,
+        6158862974
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Hacı Malike Mehmet Bileydi Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657782274,
+      "center": {
+        "lat": 36.8817127,
+        "lon": 30.7157685
+      },
+      "nodes": [
+        6160674091,
+        6160674092,
+        6160674093,
+        6160674094,
+        6160674095,
+        6160674096,
+        6160674097,
+        6160674091
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Hacı Hafize Hakkı Saygan İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657811490,
+      "center": {
+        "lat": 36.8559916,
+        "lon": 30.7909245
+      },
+      "nodes": [
+        6160802717,
+        6160802718,
+        6160802719,
+        6160802720,
+        6160802717
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Saime Salih Konca Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657811575,
+      "center": {
+        "lat": 36.8588687,
+        "lon": 30.7939378
+      },
+      "nodes": [
+        6160802953,
+        6160802954,
+        6160802955,
+        6160802959,
+        6160802960,
+        6160802961,
+        6160802987,
+        6160802986,
+        6160802988,
+        6160802956,
+        6160802957,
+        6160802958,
+        6160802953
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "2246. Sokak",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Özel Lara Anadolu Hastanesi",
+        "phone": "+90 242 349 40 40"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657857795,
+      "center": {
+        "lat": 36.854862,
+        "lon": 30.7964899
+      },
+      "nodes": [
+        6161124821,
+        6161124822,
+        6161124823,
+        6161124824,
+        6161124821
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "383",
+        "addr:neighbourhood": "Güzeloba Mah",
+        "addr:postcode": "07230",
+        "addr:street": "Lara caddesi",
+        "amenity": "hospital",
+        "building:levels": "3",
+        "description": "Welcome to Land of Smile, where we don’t just create smiles; we’re crafting masterpieces of health and beauty.",
+        "email": "info@landofsmile.com.tr",
+        "emergency": "no",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dental_oral_maxillo_facial_surgery;dentistry",
+        "mobile": "+905301731193",
+        "name": "Land of Smile",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "operator": "Land of Smile",
+        "operator:type": "business",
+        "start_date": "2023-09-22"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658051721,
+      "center": {
+        "lat": 36.9257405,
+        "lon": 30.7367006
+      },
+      "nodes": [
+        6162852087,
+        6162852088,
+        6162852089,
+        6162852090,
+        6162852091,
+        6162852092,
+        6162852087
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "80. Yıl Cumhuriyet İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 339 67 27"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658051732,
+      "center": {
+        "lat": 36.9249688,
+        "lon": 30.7118282
+      },
+      "nodes": [
+        6162852144,
+        12356628165,
+        6162852145,
+        12356628082,
+        12356628081,
+        12356628235,
+        12356628230,
+        12356628149,
+        12356628233,
+        12356628150,
+        12356628229,
+        12356628151,
+        6162852146,
+        12356628079,
+        12356628167,
+        6162852147,
+        12356628080,
+        12356628166,
+        6162852148,
+        6162852149,
+        6162852150,
+        12356628078,
+        6162852151,
+        12356628077,
+        12356628076,
+        6162852152,
+        6162852144
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Hızır Reis Mesleki ve Teknik Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658051763,
+      "center": {
+        "lat": 36.9014997,
+        "lon": 30.7338364
+      },
+      "nodes": [
+        6162852273,
+        6162852274,
+        6162852275,
+        6162852276,
+        6162852277,
+        6162852278,
+        6162852273
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "İnönü Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658096353,
+      "center": {
+        "lat": 36.878956,
+        "lon": 30.7132492
+      },
+      "nodes": [
+        6163155039,
+        6163155040,
+        6163155041,
+        6163155042,
+        6163155039
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Başöğretmen Atatürk Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 312 66 70",
+        "website": "https://basogretmenataturk.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658142323,
+      "center": {
+        "lat": 36.8859295,
+        "lon": 30.7332554
+      },
+      "nodes": [
+        6163528560,
+        6163528561,
+        6163528562,
+        6163528563,
+        6163528564,
+        6163528560
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "check_date": "2024-10-16",
+        "name": "Akant Okulları"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658142370,
+      "center": {
+        "lat": 36.885699,
+        "lon": 30.7275651
+      },
+      "nodes": [
+        6163528784,
+        6163528785,
+        6163528786,
+        6163528787,
+        6163528788,
+        6163528784
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Hacı Dudu Mehmet Gebizli Kız Anadolu İmam Hatip Lisesi",
+        "phone": "+90 242 311 57 95"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658142420,
+      "center": {
+        "lat": 36.8811345,
+        "lon": 30.7259006
+      },
+      "nodes": [
+        6163529162,
+        6163529163,
+        6163529164,
+        6163529165,
+        6163529166,
+        6163529167,
+        6163529162
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Mustafa Asım Cula Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 322 01 97"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658177457,
+      "center": {
+        "lat": 36.88574,
+        "lon": 30.7224521
+      },
+      "nodes": [
+        6163791429,
+        6163791430,
+        6163791431,
+        6163791432,
+        6163791433,
+        6163791434,
+        6163791435,
+        6163791436,
+        6163791429
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Antalya Barosu Mesleki ve Teknik Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658177480,
+      "center": {
+        "lat": 36.8722,
+        "lon": 30.7294668
+      },
+      "nodes": [
+        6163791535,
+        6163791536,
+        6163791537,
+        6163791538,
+        6163791539,
+        6163791540,
+        6163791541,
+        6163791542,
+        6163791543,
+        6163791535
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Hanım - Ömer Çağıran İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658182188,
+      "center": {
+        "lat": 36.8851633,
+        "lon": 30.715821
+      },
+      "nodes": [
+        6163825878,
+        6163825879,
+        6163825880,
+        6163825881,
+        6163825882,
+        6163825883,
+        6163825884,
+        6163830585,
+        6163830586,
+        6163825878
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "İstiklal İlkokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658182198,
+      "center": {
+        "lat": 36.8892795,
+        "lon": 30.7218542
+      },
+      "nodes": [
+        6163830623,
+        6163830624,
+        6163830625,
+        6163830626,
+        6163830623
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Meydan",
+        "addr:housenumber": "129",
+        "addr:neighbourhood": "Kızıltoprak Mah.",
+        "addr:postcode": "07100",
+        "addr:street": "Ali Çetinkaya Caddesi",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "building": "yes",
+        "check_date": "2024-10-12",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Meydan Tıp Merkezi",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:visa": "yes",
+        "phone": "+902423111003",
+        "website": "www.meydantip.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658373765,
+      "center": {
+        "lat": 36.8746897,
+        "lon": 30.729991
+      },
+      "nodes": [
+        6165371583,
+        6165371584,
+        6165371585,
+        6165371586,
+        6165371587,
+        6165371588,
+        6165371589,
+        6165371583
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "check_date": "2024-10-08",
+        "name": "Melahat Faraçlar İlkokulu/Ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658465396,
+      "center": {
+        "lat": 36.8918352,
+        "lon": 30.7108839
+      },
+      "nodes": [
+        6166154951,
+        6166154952,
+        6166154953,
+        6166154954,
+        6166154955,
+        6166154956,
+        6166154957,
+        6166154958,
+        6166154959,
+        6166154951
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:neighbourhood": "Yüksekalan Mah.",
+        "amenity": "school",
+        "name": "Hakkı Tatoğlu İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 321 47 05"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658657221,
+      "center": {
+        "lat": 36.882684,
+        "lon": 30.7295765
+      },
+      "nodes": [
+        6167546018,
+        6167546019,
+        6167546020,
+        6167546021,
+        6167546022,
+        6167545559,
+        6167546023,
+        6167546018
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Zihinsel Yetersiz Çocukları Yetiştirme Ve Koruma Vakfı"
+      }
+    },
+    {
+      "type": "way",
+      "id": 658726939,
+      "center": {
+        "lat": 36.8899566,
+        "lon": 30.7114511
+      },
+      "nodes": [
+        6168233916,
+        6168233917,
+        6168233918,
+        6168233919,
+        6168233920,
+        6168233921,
+        6168233922,
+        6168233923,
+        6168233924,
+        6168233916
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:neighbourhood": "Yüksekalan Mah.",
+        "amenity": "school",
+        "name": "Kamile Çömlekçioğlu Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 322 20 11"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659771273,
+      "center": {
+        "lat": 36.9064811,
+        "lon": 30.7271308
+      },
+      "nodes": [
+        6177096943,
+        6177096944,
+        6177096945,
+        6177096982,
+        6177096946,
+        6177096947,
+        6177096948,
+        6177096943
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "2786. Sokak",
+        "amenity": "kindergarten",
+        "name": "Vilayetler Hizmet Birliği Anaokulu",
+        "phone": "+90 242 321 55 95"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659776096,
+      "center": {
+        "lat": 36.9021697,
+        "lon": 30.7178871
+      },
+      "nodes": [
+        6177142499,
+        6177142500,
+        6177142501,
+        6177142502,
+        6180717911,
+        6180717914,
+        6180717912,
+        6177142503,
+        6177142499
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "check_date": "2024-10-10",
+        "name": "Dilsad Refizade Ilkokulu",
+        "phone": "+90 242 312 81 90"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659776673,
+      "center": {
+        "lat": 36.9031058,
+        "lon": 30.7104682
+      },
+      "nodes": [
+        6177147027,
+        6177147028,
+        6177147029,
+        6177147030,
+        6177147031,
+        6177147027
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Vali Saim Çotur Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 311 70 50"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659776676,
+      "center": {
+        "lat": 36.9047427,
+        "lon": 30.7074933
+      },
+      "nodes": [
+        6177147036,
+        6177147037,
+        6178054870,
+        6178054872,
+        6178054869,
+        6177147038,
+        6177147039,
+        6177147040,
+        6177147041,
+        6177147036
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Necati Fatma Dölen İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659776677,
+      "center": {
+        "lat": 36.9047875,
+        "lon": 30.7067041
+      },
+      "nodes": [
+        6177147042,
+        6177147043,
+        6178054860,
+        6178054863,
+        6178054861,
+        6177147044,
+        6177147045,
+        6177147046,
+        6177147047,
+        6177147048,
+        6177147049,
+        6177147042
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Necati Dölen Mesleki ve Teknik Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 76 20"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659849318,
+      "center": {
+        "lat": 36.899297,
+        "lon": 30.724558
+      },
+      "nodes": [
+        6177911608,
+        6177911609,
+        6177911610,
+        6177911611,
+        6177911612,
+        6177911613,
+        6177911614,
+        6177911608
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:country": "TR",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "4",
+        "addr:street": "1115. Sokak",
+        "addr:suburb": "Gebizli Mahallesi",
+        "alt_name": "Akdeniz Sağlık Vakfı Özel Yaşam Hastanesi",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "internet_access": "wlan",
+        "name": "ASV Yaşam Hastanesi",
+        "phone": "+90 242 212 07 77"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659864441,
+      "center": {
+        "lat": 36.8993639,
+        "lon": 30.709696
+      },
+      "nodes": [
+        6178054804,
+        6178054805,
+        6178054806,
+        6178054815,
+        6178054817,
+        6178054807,
+        6178054808,
+        6178054809,
+        6178054810,
+        6178054811,
+        6178054812,
+        6178054813,
+        6178054814,
+        6178054804
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "40",
+        "addr:neighbourhood": "Etiler Mah.",
+        "addr:street": "839. Sokak",
+        "amenity": "school",
+        "name": "Hamza Taş İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 311 48 16"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659864448,
+      "center": {
+        "lat": 36.8994549,
+        "lon": 30.7089311
+      },
+      "nodes": [
+        6178054838,
+        6178054839,
+        6178054840,
+        6178054841,
+        6178054842,
+        6178054843,
+        6178054844,
+        6178054845,
+        6178054838
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:neighbourhood": "Etiler Mah.",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Özel Orbit Tıp Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659893759,
+      "center": {
+        "lat": 36.9017386,
+        "lon": 30.6987401
+      },
+      "nodes": [
+        6178279934,
+        6178279935,
+        6178279936,
+        6178279937,
+        6178279938,
+        6178279939,
+        6178279934
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Opera Yaşam Hastanesi",
+        "name:en": "Opera Yaşam Hospital",
+        "phone": "4447744"
+      }
+    },
+    {
+      "type": "way",
+      "id": 659893784,
+      "center": {
+        "lat": 36.9038793,
+        "lon": 30.6969942
+      },
+      "nodes": [
+        6178281440,
+        6178281441,
+        6178281442,
+        6178281443,
+        6178281448,
+        6178281446,
+        6178281444,
+        6178281440
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:street": "661. Sokak",
+        "amenity": "school",
+        "name": "Ahmet Yesevi İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 334 12 54"
+      }
+    },
+    {
+      "type": "way",
+      "id": 660102007,
+      "center": {
+        "lat": 36.9078697,
+        "lon": 30.7206155
+      },
+      "nodes": [
+        6180385674,
+        6180385675,
+        4570154775,
+        4570154776,
+        6180385674
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Kazım Şanöz İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 326 51 52"
+      }
+    },
+    {
+      "type": "way",
+      "id": 660163042,
+      "center": {
+        "lat": 36.8988564,
+        "lon": 30.6770045
+      },
+      "nodes": [
+        6180960481,
+        6180960482,
+        6203108037,
+        6203108039,
+        6203108036,
+        6180960483,
+        6180960484,
+        6180960485,
+        6180960486,
+        6180960481
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "24",
+        "addr:neighbourhood": "Soğuksu Mah.",
+        "addr:street": "299. Sokak",
+        "amenity": "school",
+        "name": "Hacı Hafize Saygan 2 İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 660437601,
+      "center": {
+        "lat": 36.8941274,
+        "lon": 30.6848599
+      },
+      "nodes": [
+        6183395743,
+        6183395744,
+        6183395745,
+        6183395746,
+        6183395743
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Medstar Antalya Hastanesi",
+        "phone": "+90 242 310 92 92"
+      }
+    },
+    {
+      "type": "way",
+      "id": 660463189,
+      "center": {
+        "lat": 36.8954617,
+        "lon": 30.69001
+      },
+      "nodes": [
+        6183665719,
+        6183665720,
+        6183665721,
+        6183665722,
+        6183665719
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Namık Kemal Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 660963183,
+      "center": {
+        "lat": 36.9061295,
+        "lon": 30.7220417
+      },
+      "nodes": [
+        6188159369,
+        6188159376,
+        6188159378,
+        6188159375,
+        6188159370,
+        6188159371,
+        6188159372,
+        6188159373,
+        6188159374,
+        6188159369
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "36",
+        "addr:neighbourhood": "Kızılarık Mah.",
+        "addr:street": "2773. Sokak",
+        "amenity": "school",
+        "fax": "+90 242 326 31 03",
+        "name": "Antalya Anadolu İmam Hatip Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 12 50",
+        "website": "https://antalyaaihl.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 660984662,
+      "center": {
+        "lat": 36.9196794,
+        "lon": 30.7328446
+      },
+      "nodes": [
+        6188312870,
+        6188312871,
+        6188312872,
+        6188312873,
+        6188312874,
+        6188312875,
+        6188312876,
+        6188312877,
+        6188312870
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "7 Nolu Hayri Haseki Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661117836,
+      "center": {
+        "lat": 36.918598,
+        "lon": 30.7244887
+      },
+      "nodes": [
+        6109940917,
+        6189542818,
+        6189542819,
+        6189542820,
+        6189542821,
+        6109940914,
+        6109940917
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "İsmail Hakkı Kaya İlkokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661163451,
+      "center": {
+        "lat": 36.9147889,
+        "lon": 30.6812937
+      },
+      "nodes": [
+        6189930351,
+        6189930352,
+        6189930353,
+        6189930354,
+        6189930355,
+        6189930356,
+        6189930351
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Şehit Çetin Çakmak Anadolu İmam Hatip Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661163452,
+      "center": {
+        "lat": 36.9142538,
+        "lon": 30.6816679
+      },
+      "nodes": [
+        6189930352,
+        6189930357,
+        6189930358,
+        6189930359,
+        6189930360,
+        6189930355,
+        6189930354,
+        6189930353,
+        6189930352
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Çağlayan Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 345 53 55"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661163474,
+      "center": {
+        "lat": 36.9123959,
+        "lon": 30.6833079
+      },
+      "nodes": [
+        6189930435,
+        6189930436,
+        6189930437,
+        6189930438,
+        6189930435
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Mustafa Adıyaman Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 345 32 89"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661379661,
+      "center": {
+        "lat": 36.8908257,
+        "lon": 30.666508
+      },
+      "nodes": [
+        6191864736,
+        6191864737,
+        6191864738,
+        6191864739,
+        6191864736
+      ],
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "name": "Mecdude Başakıncı Ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661703575,
+      "center": {
+        "lat": 36.9121482,
+        "lon": 30.6809499
+      },
+      "nodes": [
+        6194929686,
+        6194929687,
+        6194929688,
+        6195275227,
+        6195275229,
+        6195275226,
+        6194929689,
+        6194929686
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "59",
+        "addr:neighbourhood": "Özgürlük Mah.",
+        "addr:street": "Rasih Kaplan Caddesi",
+        "amenity": "school",
+        "name": "Mehmet Kemal Dedeman İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 345 98 58",
+        "website": "https://mkdedemanio.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661703577,
+      "center": {
+        "lat": 36.9127316,
+        "lon": 30.6805771
+      },
+      "nodes": [
+        6194929686,
+        6194929689,
+        6195275231,
+        6195275234,
+        6195275232,
+        6194929690,
+        6194929691,
+        6194929692,
+        6194929693,
+        6194929694,
+        6194929695,
+        6194929686
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:neighbourhood": "Özgürlük Mah.",
+        "addr:street": "Rasih Kaplan Caddesi",
+        "amenity": "school",
+        "name": "Hüseyin Avni Çöllü Ortaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662435100,
+      "center": {
+        "lat": 36.9081084,
+        "lon": 30.6903522
+      },
+      "nodes": [
+        6201601840,
+        6201601841,
+        6201601842,
+        6201601843,
+        6201601844,
+        6201601845,
+        6201601846,
+        6201601840
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Naciye Havva Manavuşak Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662605238,
+      "center": {
+        "lat": 36.9006529,
+        "lon": 30.6857848
+      },
+      "nodes": [
+        6203107370,
+        6203107371,
+        6203107372,
+        6203107373,
+        6203107374,
+        6203107377,
+        6203107376,
+        6203107370
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "8",
+        "addr:neighbourhood": "Güvenlik Mah.",
+        "addr:street": "274. Sokak",
+        "amenity": "school",
+        "name": "Güvenlik İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 346 68 95",
+        "website": "https://guvenlikilkokulu.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662641792,
+      "center": {
+        "lat": 36.8958221,
+        "lon": 30.6718454
+      },
+      "nodes": [
+        3073283982,
+        3073283983,
+        6203411558,
+        6203411559,
+        3073283981,
+        3073283982
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Emel Sevgi Taner İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662648635,
+      "center": {
+        "lat": 36.9026522,
+        "lon": 30.6796531
+      },
+      "nodes": [
+        6203468783,
+        6203468784,
+        6203468785,
+        6203468786,
+        6203468787,
+        6203468788,
+        6203468789,
+        6203468783
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Dr. Galip Kahraman Ortaokul",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 663077654,
+      "center": {
+        "lat": 36.8921642,
+        "lon": 30.7339373
+      },
+      "nodes": [
+        6207012038,
+        6207012039,
+        6207012040,
+        6207012041,
+        6207012038
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Hamidiye İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 663465474,
+      "center": {
+        "lat": 36.8883647,
+        "lon": 30.6853299
+      },
+      "nodes": [
+        6210087795,
+        6210087796,
+        6210087797,
+        6210087798,
+        6210087795
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Fatmagül Özpınar İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 248 46 20"
+      }
+    },
+    {
+      "type": "way",
+      "id": 663707505,
+      "center": {
+        "lat": 36.8930907,
+        "lon": 30.6908365
+      },
+      "nodes": [
+        6212318568,
+        6212318569,
+        6212318570,
+        6212318580,
+        6212318583,
+        6212318581,
+        6212318571,
+        6212318572,
+        6212318573,
+        6212318568
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:housenumber": "8",
+        "addr:street": "151. Sokak",
+        "amenity": "school",
+        "name": "Altındağ İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 248 00 66"
+      }
+    },
+    {
+      "type": "way",
+      "id": 663905134,
+      "center": {
+        "lat": 36.8946116,
+        "lon": 30.7024922
+      },
+      "nodes": [
+        6214155069,
+        6214155070,
+        6214155071,
+        6214155072,
+        6214155069
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "grades": "1-4",
+        "name": "Cumhuriyet İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 663937185,
+      "center": {
+        "lat": 36.9506536,
+        "lon": 30.7252639
+      },
+      "nodes": [
+        6214431048,
+        6214431049,
+        6214431050,
+        6214431051,
+        6214431052,
+        6214431053,
+        6214431054,
+        6214431048
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664114348,
+      "center": {
+        "lat": 36.9409723,
+        "lon": 30.7092004
+      },
+      "nodes": [
+        6216030515,
+        6216030516,
+        6216030517,
+        6216030518,
+        6216030519,
+        6216242976,
+        6216242962,
+        6216030520,
+        6216030521,
+        6216030522,
+        6216030523,
+        6216030515
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:street": "2551. Sokak",
+        "amenity": "school",
+        "name": "İrenogullari İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 10 95"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664120028,
+      "center": {
+        "lat": 36.9358441,
+        "lon": 30.7307833
+      },
+      "nodes": [
+        6216081202,
+        6216081203,
+        6216081204,
+        6216081205,
+        6216081206,
+        6216081207,
+        6216081202
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "İsmet İnönü Mesleki ve Teknik Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 361 47 17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664120043,
+      "center": {
+        "lat": 36.9411766,
+        "lon": 30.7131403
+      },
+      "nodes": [
+        6216081239,
+        6216081240,
+        6216081241,
+        6216081242,
+        6216081243,
+        6216081244,
+        6216081245,
+        6216242957,
+        6216081246,
+        6216242936,
+        6216081239
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664120045,
+      "center": {
+        "lat": 36.9368969,
+        "lon": 30.7048286
+      },
+      "nodes": [
+        6216081247,
+        6216081248,
+        6216081249,
+        6216081250,
+        6216081251,
+        6216081252,
+        6216081253,
+        6216081254,
+        6216081255,
+        6216081256,
+        6216081247
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "grades": "1-4",
+        "name": "Şahinevler ilkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 76 10"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664137521,
+      "center": {
+        "lat": 36.9417635,
+        "lon": 30.712866
+      },
+      "nodes": [
+        6216242936,
+        6216242937,
+        6216242938,
+        6216242939,
+        6216242940,
+        6216242953,
+        6216242954,
+        6216242955,
+        6216242956,
+        6216081246,
+        6216242936
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "kindergarten",
+        "name": "Makbule Mehmet Karabacak Anaokulu",
+        "not:operator:wikidata": "Q1359675",
+        "operator": "Milli Eğitim Bakanlığı",
+        "phone": "+90 242 326 53 56"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664137557,
+      "center": {
+        "lat": 36.9341598,
+        "lon": 30.7077672
+      },
+      "nodes": [
+        6216243695,
+        6216243696,
+        6216243697,
+        6216243698,
+        6216243695
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Bolat Yıldırım Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664325487,
+      "center": {
+        "lat": 36.9293701,
+        "lon": 30.7047116
+      },
+      "nodes": [
+        6217901204,
+        6217901205,
+        6217901208,
+        6217901211,
+        6217901209,
+        6217901206,
+        6217901207,
+        6217901204
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Aslanlar İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 00 25",
+        "website": "https://aslanlario.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664335209,
+      "center": {
+        "lat": 36.9396746,
+        "lon": 30.7005732
+      },
+      "nodes": [
+        6217997492,
+        6217997493,
+        6217997494,
+        6217997495,
+        6217997496,
+        6217997497,
+        6217997498,
+        6217997499,
+        6217997492
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664335210,
+      "center": {
+        "lat": 36.940257,
+        "lon": 30.7005112
+      },
+      "nodes": [
+        6217997500,
+        6217997492,
+        6217997499,
+        6217997498,
+        6217997497,
+        6217997501,
+        6217997502,
+        6217997500
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664854006,
+      "center": {
+        "lat": 36.9442977,
+        "lon": 30.7086997
+      },
+      "nodes": [
+        6223125244,
+        6223125245,
+        6223125246,
+        6223125247,
+        6223125248,
+        6223125249,
+        6223125250,
+        6223125251,
+        6223125252,
+        6223125244
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Özel Akdeniz Şifa Hastanesi",
+        "phone": "444 7 606"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664878301,
+      "center": {
+        "lat": 36.9147982,
+        "lon": 30.7111589
+      },
+      "nodes": [
+        6223341987,
+        6224737438,
+        6224737440,
+        6224737437,
+        6223341988,
+        6223341989,
+        6223341990,
+        6223341987
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "General Şadi Çetinkaya İlkokulu ve Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664878302,
+      "center": {
+        "lat": 36.9140667,
+        "lon": 30.7113411
+      },
+      "nodes": [
+        6223341988,
+        6223341989,
+        6223341991,
+        6223341992,
+        6223341993,
+        6224737442,
+        6229407152,
+        6224737443,
+        6223341988
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Nazime Baki Saatçioğlu Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 51 79"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664892174,
+      "center": {
+        "lat": 36.9150885,
+        "lon": 30.6932189
+      },
+      "nodes": [
+        6223464476,
+        6223464477,
+        6195276231,
+        6195276232,
+        6223464476
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "grades": "1-4",
+        "name": "Cengiz Topel İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665143634,
+      "center": {
+        "lat": 36.917833,
+        "lon": 30.6751682
+      },
+      "nodes": [
+        6225702992,
+        6225702993,
+        6225702994,
+        6225702995,
+        6225702996,
+        6225702997,
+        6225702998,
+        6225702999,
+        6225702992
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Özel Vitale Kadın ve Doğum Hastanesi",
+        "name:ru": "Анталья ЭКО"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665143648,
+      "center": {
+        "lat": 36.9259093,
+        "lon": 30.6861269
+      },
+      "nodes": [
+        6225703111,
+        6225703112,
+        6225703113,
+        6225703114,
+        6225703115,
+        6225703116,
+        6225703117,
+        6225703118,
+        6225703119,
+        6225703120,
+        6225703121,
+        6225703122,
+        6225703111
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "24 Nolu Barış Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665143661,
+      "center": {
+        "lat": 36.9196452,
+        "lon": 30.6900888
+      },
+      "nodes": [
+        6225703180,
+        6225703181,
+        6225703182,
+        6225703183,
+        6225703184,
+        6225749701,
+        6225749702,
+        6225703236,
+        6225703238,
+        6225703235,
+        6225703180
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Hüseyin Ak İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 326 75 54"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665143662,
+      "center": {
+        "lat": 36.9197456,
+        "lon": 30.689413
+      },
+      "nodes": [
+        6225703180,
+        6225703234,
+        6225703241,
+        6225703232,
+        6225703185,
+        6225703186,
+        6225703187,
+        6225703188,
+        6225703189,
+        6225703182,
+        6225703181,
+        6225703180
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Atatürk Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665149252,
+      "center": {
+        "lat": 36.9191477,
+        "lon": 30.6903286
+      },
+      "nodes": [
+        6225703184,
+        6225749701,
+        6225749702,
+        6225703236,
+        6225749709,
+        6225749704,
+        6225749703,
+        6225703184
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "kindergarten",
+        "name": "Zafer Anaokulu",
+        "not:operator:wikidata": "Q1359675",
+        "operator": "Milli Eğitim Bakanlığı"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665149258,
+      "center": {
+        "lat": 36.9233058,
+        "lon": 30.6966808
+      },
+      "nodes": [
+        6225749768,
+        6225749769,
+        6225749770,
+        6225749771,
+        6225749772,
+        6225749773,
+        6225749774,
+        6225749775,
+        6225749768
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "70. Yıl Cumhuriyet Merkez Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665151669,
+      "center": {
+        "lat": 36.9218941,
+        "lon": 30.7113882
+      },
+      "nodes": [
+        6225772133,
+        12341885417,
+        6225772134,
+        12341422113,
+        6225772135,
+        6225772136,
+        12341885437,
+        12341885433,
+        6225772137,
+        6225772138,
+        12341885434,
+        12341394154,
+        6225772133
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Mobil İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 10 24"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665648413,
+      "center": {
+        "lat": 36.9283623,
+        "lon": 30.6706362
+      },
+      "nodes": [
+        6230812985,
+        6230812986,
+        6230812987,
+        6230812988,
+        6230812989,
+        6230812985
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "İbrahim Doğaner İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 331 05 36"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666249439,
+      "center": {
+        "lat": 36.9354973,
+        "lon": 30.6778708
+      },
+      "nodes": [
+        6237595585,
+        6237595586,
+        6237595587,
+        6237595588,
+        6237595589,
+        6237595590,
+        6237595591,
+        6237595585
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Şehit İbrahim Barış Yurtseven İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666255933,
+      "center": {
+        "lat": 36.9296539,
+        "lon": 30.6888388
+      },
+      "nodes": [
+        6237647165,
+        6237647166,
+        6237647167,
+        6237647168,
+        6237647169,
+        6237647165
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "grades": "5-8",
+        "name": "Halil Akyüz Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 325 95 94"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666258637,
+      "center": {
+        "lat": 36.9284113,
+        "lon": 30.6943851
+      },
+      "nodes": [
+        6237665410,
+        6237665411,
+        6237665412,
+        6237665413,
+        6237665414,
+        6237665415,
+        6237665416,
+        6237665417,
+        6237665418,
+        6237665410
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "grades": "1-4",
+        "name": "Kepez Şehit Ali Yılmaz İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666369975,
+      "center": {
+        "lat": 36.9045613,
+        "lon": 30.6925848
+      },
+      "nodes": [
+        6238760488,
+        6238760489,
+        6238760490,
+        6238760491,
+        6238760492,
+        6238760493,
+        6238760494,
+        6238760488
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666369978,
+      "center": {
+        "lat": 36.9048852,
+        "lon": 30.6903349
+      },
+      "nodes": [
+        6238760495,
+        6238760496,
+        6238760497,
+        6238760498,
+        6238760495
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Yunus Emre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666626114,
+      "center": {
+        "lat": 36.9079227,
+        "lon": 30.6764503
+      },
+      "nodes": [
+        6241449231,
+        6241449232,
+        6241449233,
+        6241449234,
+        6241449231
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 667627194,
+      "center": {
+        "lat": 36.9154581,
+        "lon": 30.6574019
+      },
+      "nodes": [
+        6251140614,
+        6251140615,
+        6251140616,
+        6251140620,
+        6251140619,
+        6251140617,
+        6251140618,
+        6251140614
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "Ahatlı Mah.",
+        "addr:street": "3175. Sokak",
+        "amenity": "school",
+        "name": "Ayşe - Ahmet Atmaca Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 227 04 21",
+        "website": "https://atmaca.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 667627208,
+      "center": {
+        "lat": 36.9109124,
+        "lon": 30.6599473
+      },
+      "nodes": [
+        6251140654,
+        6251140655,
+        6251140656,
+        6251140657,
+        6251140654
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "21/1",
+        "addr:neighbourhood": "Yenidoğan Mah.",
+        "amenity": "school",
+        "name": "Fikret Haluk Saraçoğlu İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 332 61 81",
+        "website": "https://fikrethaluksaracogluilkokulu.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668123167,
+      "center": {
+        "lat": 36.934129,
+        "lon": 30.6292263
+      },
+      "nodes": [
+        6256418858,
+        6256418859,
+        6256418860,
+        6256418861,
+        6256418858
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "185",
+        "addr:neighbourhood": "Ünsal Mah.",
+        "addr:street": "5 Temmuz Kurtuluş Caddesi",
+        "amenity": "school",
+        "name": "Ünsal Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 221 21 92",
+        "website": "https://unsalortaokulu.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668248724,
+      "center": {
+        "lat": 36.9218232,
+        "lon": 30.7105269
+      },
+      "nodes": [
+        6257831149,
+        6257831150,
+        6257831151,
+        6257831152,
+        12341885419,
+        6225772134,
+        12341885417,
+        6225772133,
+        12341885423,
+        6257831149
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "kindergarten",
+        "name": "Hamdullah Suphi Tanrıöver Anaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668664698,
+      "center": {
+        "lat": 36.9184931,
+        "lon": 30.6712892
+      },
+      "nodes": [
+        6261816069,
+        6261816070,
+        6261816071,
+        6261816072,
+        6261816073,
+        6261816074,
+        6261816069
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:housenumber": "24",
+        "addr:street": "3050. Sokak",
+        "amenity": "school",
+        "name": "Kaan Turan İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 344 51 11",
+        "website": "https://kaanturanilkokulu.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668838209,
+      "center": {
+        "lat": 36.8998726,
+        "lon": 30.7253514
+      },
+      "nodes": [
+        6263426319,
+        8153796561,
+        6263426320,
+        6263426321,
+        6263426322,
+        6263426323,
+        6263426324,
+        6263426319
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "amenity": "school",
+        "name": "Gültekin İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669435954,
+      "center": {
+        "lat": 36.8564068,
+        "lon": 30.7653678
+      },
+      "nodes": [
+        6268867408,
+        6268867409,
+        6268867410,
+        6268867411,
+        6268867412,
+        6268867408
+      ],
+      "tags": {
+        "amenity": "school",
+        "check_date": "2026-10-15",
+        "name": "Bilfen Antalya İlkokulu ve Ortaokulu",
+        "operator": "Bilfen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669435955,
+      "center": {
+        "lat": 36.8564706,
+        "lon": 30.7648936
+      },
+      "nodes": [
+        6268867413,
+        6268867411,
+        6268867412,
+        6268867414,
+        6268867413
+      ],
+      "tags": {
+        "amenity": "school",
+        "check_date": "2026-10-15",
+        "name": "Bilfen Antalya Fen Lisesi ve Anadolu Lisesi",
+        "operator": "Bilfen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 670978737,
+      "center": {
+        "lat": 36.934298,
+        "lon": 30.6628406
+      },
+      "nodes": [
+        6283393425,
+        6283393426,
+        6283393427,
+        6283393428,
+        6283393429,
+        6283393430,
+        6283393431,
+        6283393432,
+        6283393433,
+        6283393425
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "100. Yıl Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 332 56 36"
+      }
+    },
+    {
+      "type": "way",
+      "id": 672724945,
+      "center": {
+        "lat": 36.9426457,
+        "lon": 30.7227691
+      },
+      "nodes": [
+        6299717457,
+        6299717458,
+        6299717459,
+        6299717460,
+        6299717461,
+        6299717462,
+        6299717463,
+        6299717464,
+        6299717465,
+        6299717457
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:neighbourhood": "Habibler",
+        "amenity": "school",
+        "name": "Ahmet-Coşkun Bulut İlköğretim okulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 675096831,
+      "center": {
+        "lat": 36.8599552,
+        "lon": 30.6246388
+      },
+      "nodes": [
+        6322351384,
+        6322351685,
+        6322351686,
+        6322351687,
+        6322351384
+      ],
+      "tags": {
+        "amenity": "school",
+        "brand": "Doğa Koleji",
+        "brand:wikidata": "Q106802282",
+        "name": "Doğa Koleji",
+        "official_name": "İTÜ ETA Vakfı Doğa Koleji"
+      }
+    },
+    {
+      "type": "way",
+      "id": 675365705,
+      "center": {
+        "lat": 36.9272753,
+        "lon": 30.7775411
+      },
+      "nodes": [
+        6324826091,
+        6324826092,
+        6324826093,
+        6324826094,
+        6324826095,
+        6324826096,
+        6324826097,
+        6324826098,
+        6324826099,
+        6324826100,
+        6324826101,
+        6324826102,
+        6324826091
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Altınova Aile Sağlığı Merkezi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 676185460,
+      "center": {
+        "lat": 36.9305664,
+        "lon": 30.780426
+      },
+      "nodes": [
+        6332496566,
+        6332496567,
+        6332496568,
+        6332496569,
+        6332496566
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "addr:neighbourhood": "Altınova Sinan Orta Mah.",
+        "amenity": "school",
+        "name": "Ayten Çağıran Çok Programlı Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 340 48 58",
+        "website": "https://aytencagiran.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684324583,
+      "center": {
+        "lat": 36.9260991,
+        "lon": 30.6682812
+      },
+      "nodes": [
+        6411194285,
+        6411194286,
+        6411447928,
+        6411447929,
+        6411447930,
+        6411447931,
+        6411194287,
+        6411194288,
+        6411194285
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "kindergarten",
+        "name": "Şehit Binbaşı Turgut Cengiz Toytunç Anaokulu",
+        "phone": "+90 242 332 27 27"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684349190,
+      "center": {
+        "lat": 36.9280495,
+        "lon": 30.6673384
+      },
+      "nodes": [
+        6411447956,
+        6411447957,
+        6411447958,
+        6411447959,
+        6411447960,
+        6411447961,
+        6411447962,
+        6411447963,
+        6411447964,
+        6411447965,
+        6411447956
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Kepez",
+        "amenity": "school",
+        "name": "Mimar Sinan İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 722140125,
+      "center": {
+        "lat": 36.8606022,
+        "lon": 30.780207
+      },
+      "nodes": [
+        6773884988,
+        6773884997,
+        6773885006,
+        6773884986,
+        6773884988
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 744760155,
+      "center": {
+        "lat": 36.866805,
+        "lon": 30.7853391
+      },
+      "nodes": [
+        6970287685,
+        6970287686,
+        6970287687,
+        6970287688,
+        6970287685
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 809175098,
+      "center": {
+        "lat": 36.8909848,
+        "lon": 30.6828539
+      },
+      "nodes": [
+        7566232922,
+        7566232923,
+        7566232924,
+        7566232925,
+        7566232922
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 852073850,
+      "center": {
+        "lat": 36.9224086,
+        "lon": 30.7211329
+      },
+      "nodes": [
+        7948182760,
+        7948182761,
+        7948182762,
+        7948182763,
+        7948182760
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 871924983,
+      "center": {
+        "lat": 36.9379315,
+        "lon": 30.6650926
+      },
+      "nodes": [
+        6109867850,
+        6109867849,
+        6109867848,
+        6109867847,
+        6435320645,
+        6109867846,
+        6109867845,
+        12824621565,
+        6109867850
+      ],
+      "tags": {
+        "addr:neighbourhood": "Çamlıbel Mah.",
+        "addr:street": "Şehit Üst Teğmen Gökhan Korkut Caddesi",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Şehit Muhittin Talha Çalışkan Anadolu Lisesi",
+        "operator": "Şehit Muhittin Talha Çalışkan Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 887584785,
+      "center": {
+        "lat": 36.9458914,
+        "lon": 30.6991441
+      },
+      "nodes": [
+        8252316766,
+        8252316767,
+        8252316768,
+        8252316769,
+        8252316766
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "name": "Kütükçü Mesleki Teknik ve Anadolu Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 955437020,
+      "center": {
+        "lat": 36.8894144,
+        "lon": 30.6365634
+      },
+      "nodes": [
+        8842888563,
+        8842888562,
+        8842888561,
+        8842888560,
+        8842888563
+      ],
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1039058086,
+      "center": {
+        "lat": 36.8529383,
+        "lon": 30.7691043
+      },
+      "nodes": [
+        9568647732,
+        9568647733,
+        9568647734,
+        9568647735,
+        9568647736,
+        9568647732
+      ],
+      "tags": {
+        "amenity": "school",
+        "brand": "Bahçeşehir Koleji",
+        "brand:wikidata": "Q4843100",
+        "education": "school",
+        "name": "Bahçeşehir Koleji Lara Kampüsü"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1052057695,
+      "center": {
+        "lat": 36.8993165,
+        "lon": 30.669013
+      },
+      "nodes": [
+        9668193228,
+        9668193229,
+        11957763540,
+        12138496146,
+        9668193230,
+        11957763537,
+        9668193232,
+        9668193233,
+        9668193228
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:neighbourhood": "Bayındır",
+        "amenity": "school",
+        "grades": "0-12",
+        "name": "Akant Koleji",
+        "note": "2023 yılından itibaren arsa Akant Koleji yönetimindedir.",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1094368144,
+      "center": {
+        "lat": 36.9136186,
+        "lon": 30.6495953
+      },
+      "nodes": [
+        10023065855,
+        10023065856,
+        10023065857,
+        10023065858,
+        10023065855
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1159170683,
+      "center": {
+        "lat": 36.9394704,
+        "lon": 30.6334988
+      },
+      "nodes": [
+        10779709963,
+        10779709964,
+        10779709965,
+        10779709974,
+        10779709966,
+        10779709967,
+        10779709968,
+        10779709969,
+        10779709963
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185076388,
+      "center": {
+        "lat": 36.8853662,
+        "lon": 30.6223383
+      },
+      "nodes": [
+        11007975566,
+        11007975567,
+        11007975568,
+        11007975570,
+        11007975569,
+        11007975566
+      ],
+      "tags": {
+        "amenity": "school",
+        "landuse": "education",
+        "name": "İSTEK Antalya Okulları",
+        "website": "https://antalya.istek.k12.tr"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185103787,
+      "center": {
+        "lat": 36.8929426,
+        "lon": 30.6265541
+      },
+      "nodes": [
+        11008392058,
+        11008392059,
+        11008392060,
+        11008392061,
+        11008392058
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185677148,
+      "center": {
+        "lat": 36.8954613,
+        "lon": 30.7246148
+      },
+      "nodes": [
+        11013705983,
+        11013705984,
+        11013705985,
+        11013705986,
+        11013705987,
+        11013705988,
+        11013705989,
+        11013705990,
+        11013705991,
+        11013705992,
+        11013705993,
+        11013705983
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "building": "hospital",
+        "healthcare": "hospital",
+        "name": "Atatürk Devlet Hastanesi Semt Polikliniği"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185849119,
+      "center": {
+        "lat": 36.9040218,
+        "lon": 30.6474324
+      },
+      "nodes": [
+        11014967589,
+        11014967590,
+        11014967591,
+        11014967592,
+        11014967593,
+        11014967594,
+        11014967595,
+        11014967589
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1201905619,
+      "center": {
+        "lat": 36.9158459,
+        "lon": 30.647573
+      },
+      "nodes": [
+        11143365260,
+        11143365261,
+        11143365262,
+        11143365263,
+        11143365264,
+        11143365265,
+        11143365260
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1201905620,
+      "center": {
+        "lat": 36.9115077,
+        "lon": 30.6492283
+      },
+      "nodes": [
+        11143365269,
+        11143365270,
+        11143365271,
+        11143365272,
+        11143365273,
+        11143365269
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1201905621,
+      "center": {
+        "lat": 36.9156174,
+        "lon": 30.652604
+      },
+      "nodes": [
+        11143365274,
+        11143365275,
+        11143365276,
+        11143365277,
+        11143365278,
+        11143365274
+      ],
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1285761868,
+      "center": {
+        "lat": 36.8876651,
+        "lon": 30.7329334
+      },
+      "nodes": [
+        11926843865,
+        11926843866,
+        11926843867,
+        11926843868,
+        11926872769,
+        11926843865
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:neighbourhood": "Kızıltoprak Mah.",
+        "addr:street": "Aspendos Bulvarı",
+        "amenity": "school",
+        "name": "Özüm Çocuk ve Spor Akademi",
+        "operator": "Özüm Çocuk ve Spor Akademi",
+        "operator:type": "private"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1302089690,
+      "center": {
+        "lat": 36.9533887,
+        "lon": 30.6651853
+      },
+      "nodes": [
+        12059818414,
+        12059818415,
+        12059818416,
+        12059818417,
+        12059818418,
+        12059818419,
+        12128223144,
+        12128223147,
+        12059818420,
+        12128223150,
+        12059818421,
+        12128223105,
+        12128223106,
+        12128223107,
+        12059818464,
+        12128201577,
+        12128201576,
+        12128201574,
+        12128201575,
+        12059818422,
+        12059818423,
+        12128201572,
+        12128223114,
+        12128201573,
+        12059818424,
+        12059818425,
+        12059818426,
+        13202150940,
+        13202150939,
+        13202150937,
+        13202150935,
+        12128222839,
+        12128222838,
+        12128222840,
+        12059818427,
+        12128222841,
+        12059818428,
+        12059818429,
+        12059818430,
+        12059818458,
+        12059818457,
+        12059818461,
+        12059818460,
+        12059818459,
+        12059818431,
+        12059818456,
+        12128222938,
+        12059818455,
+        12059818454,
+        12059818432,
+        12059818453,
+        12059818433,
+        12059818434,
+        12059818435,
+        12059818436,
+        12059818437,
+        12059818438,
+        12059818439,
+        12059818440,
+        12059818441,
+        12059818442,
+        12059818414
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Antalya Şehir Hastanesi",
+        "operator": "Sağlık Bakanlığı",
+        "operator:type": "public",
+        "operator:wikidata": "Q4294365"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311347149,
+      "center": {
+        "lat": 36.9079678,
+        "lon": 30.6714767
+      },
+      "nodes": [
+        12138510066,
+        12138510070,
+        12138510067,
+        12138510068,
+        12138510069,
+        12138510066
+      ],
+      "tags": {
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-12",
+        "name": "Girne Koleji Antalya Kampüsü",
+        "operator": "Girne Koleji",
+        "operator:type": "private"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1322371127,
+      "center": {
+        "lat": 36.8887552,
+        "lon": 30.736441
+      },
+      "nodes": [
+        12236467839,
+        12236467840,
+        12236467841,
+        12236467842,
+        12236467859,
+        12236467843,
+        12236467844,
+        12236467839
+      ],
+      "tags": {
+        "amenity": "school",
+        "grades": "0-12",
+        "name": "Gökkuşağı Koleji",
+        "religion": "no",
+        "website": "https://gokkusagi.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1322371129,
+      "center": {
+        "lat": 36.8888435,
+        "lon": 30.7369829
+      },
+      "nodes": [
+        12236467844,
+        12236467860,
+        12236467851,
+        12236467852,
+        12236467843,
+        12236467844
+      ],
+      "tags": {
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Dore Okulları",
+        "religion": "no",
+        "website": "https://antalyadoreokullari.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1322371130,
+      "center": {
+        "lat": 36.8889335,
+        "lon": 30.7373616
+      },
+      "nodes": [
+        12236467851,
+        12236467853,
+        12236467854,
+        12236467852,
+        12236467851
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Özel Antalya Teknoloji Koleji"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1324405639,
+      "center": {
+        "lat": 36.8856929,
+        "lon": 30.7464122
+      },
+      "nodes": [
+        12255451111,
+        12255451112,
+        12255451113,
+        12255451114,
+        12255451115,
+        12255451116,
+        12255451117,
+        12255451118,
+        12255451119,
+        12255451120,
+        12255451121,
+        12255451111
+      ],
+      "tags": {
+        "amenity": "school",
+        "fee": "yes",
+        "grades": "0-12",
+        "isced:level": "0-3",
+        "name": "Antalya Koleji Lara Kampusu",
+        "operator:type": "private",
+        "religion": "no",
+        "website": "https://antalyakoleji.k12.tr/larakampusu/ortaokul/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1334156480,
+      "center": {
+        "lat": 36.921209,
+        "lon": 30.7041866
+      },
+      "nodes": [
+        6225749780,
+        12344517424,
+        6257700095,
+        12343164117,
+        12344517425,
+        12343164118,
+        12343164119,
+        6225749780
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Özel Eğitim Meslek Okulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1334322474,
+      "center": {
+        "lat": 36.9211335,
+        "lon": 30.7033385
+      },
+      "nodes": [
+        6257700095,
+        12344517424,
+        6225749780,
+        12344554871,
+        12344554870,
+        12344554885,
+        12344554869,
+        12344554886,
+        12344554868,
+        12344554887,
+        12343164115,
+        12344532389,
+        6225749778,
+        12344517422,
+        6257700095
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Bolat Yıldırım Anaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1334322475,
+      "center": {
+        "lat": 36.920898,
+        "lon": 30.7031719
+      },
+      "nodes": [
+        12344554871,
+        12344554870,
+        12344554885,
+        12344554869,
+        12344554886,
+        12344554868,
+        12344554887,
+        12343164115,
+        12344532390,
+        12344554874,
+        12344532391,
+        12344532392,
+        12344554872,
+        12344554871
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Bolat Yıldırım İlkokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1334668763,
+      "center": {
+        "lat": 36.9241297,
+        "lon": 30.7047131
+      },
+      "nodes": [
+        12347748003,
+        12347748032,
+        12347748054,
+        12347748036,
+        12347748004,
+        12347748035,
+        12347748057,
+        12347748046,
+        12347748060,
+        12347748026,
+        12347748005,
+        12347748020,
+        12347748033,
+        12347748006,
+        12347748085,
+        12347748003
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Antalya Ticaret ve Sanayi Odası Güzel Sanatlar Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1334668773,
+      "center": {
+        "lat": 36.9251181,
+        "lon": 30.7049183
+      },
+      "nodes": [
+        12347748085,
+        12347748084,
+        12347748083,
+        12347748061,
+        12347748062,
+        12347748063,
+        12347748006,
+        12347748085
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Nevzat Saygan-Levent Saygan Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1334668781,
+      "center": {
+        "lat": 36.9251185,
+        "lon": 30.7058757
+      },
+      "nodes": [
+        12347748063,
+        12347748062,
+        12347748091,
+        12347750445,
+        4310511524,
+        4310511510,
+        12347748092,
+        12347748063
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Sunay-Gönül-Türkan-Saygan Kardeşler-5 Anaokulu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1334668782,
+      "center": {
+        "lat": 36.9248931,
+        "lon": 30.7067481
+      },
+      "nodes": [
+        12347748091,
+        12347748090,
+        12347748093,
+        12347748094,
+        12347748095,
+        12347748096,
+        12347750508,
+        12347748097,
+        12347750506,
+        12347750505,
+        12347750427,
+        12347748098,
+        12347750509,
+        12347750422,
+        12347750499,
+        12347748099,
+        12347750493,
+        12347748092,
+        4310511510,
+        4310511524,
+        12347750445,
+        12347748091
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Karatay Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1334668795,
+      "center": {
+        "lat": 36.9241567,
+        "lon": 30.7056578
+      },
+      "nodes": [
+        12347748092,
+        12347748063,
+        12347748006,
+        12347748033,
+        12347748020,
+        12347748005,
+        12347750447,
+        12345987170,
+        12347750446,
+        12347750496,
+        12347748099,
+        12347750493,
+        12347748092
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Kepez Mesleki ve Teknik Anadolu Lisesi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1345706768,
+      "center": {
+        "lat": 36.881758,
+        "lon": 30.7067884
+      },
+      "nodes": [
+        12448375738,
+        12448375739,
+        12448375740,
+        12448375741,
+        12448375742,
+        12448375743,
+        12448375744,
+        12448375745,
+        12448375753,
+        12448375746,
+        12448375747,
+        12448375748,
+        12448375749,
+        12448375750,
+        12448375751,
+        12448375738
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "amenity": "school",
+        "grades": "5-8",
+        "name": "Dumlupınar Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675",
+        "phone": "+90 242 247 6247"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1345821171,
+      "center": {
+        "lat": 36.8858247,
+        "lon": 30.6922881
+      },
+      "nodes": [
+        12448828933,
+        12448828934,
+        12448828935,
+        12448828936,
+        12448828937,
+        12448828938,
+        12448828933
+      ],
+      "tags": {
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "Antalya Mesleki ve Teknik Anadolu Lisesi",
+        "website": "https://antalyaeml.meb.k12.tr/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348464976,
+      "center": {
+        "lat": 36.9026422,
+        "lon": 30.6790662
+      },
+      "nodes": [
+        12473417449,
+        12473417450,
+        12473417451,
+        12473417452,
+        12473417449
+      ],
+      "tags": {
+        "amenity": "kindergarten"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361483583,
+      "center": {
+        "lat": 36.8790191,
+        "lon": 30.7195248
+      },
+      "nodes": [
+        12604349919,
+        12604349916,
+        12604349915,
+        12604349911,
+        12604349912,
+        12604349913,
+        12604349914,
+        12604349907,
+        12604349906,
+        12604349905,
+        12604349908,
+        12604349917,
+        12604349909,
+        12604349910,
+        12604349918,
+        12604349919
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:neighbourhood": "Demircikara Mahallesi",
+        "amenity": "school",
+        "building": "yes",
+        "education": "school",
+        "grades": "0-12",
+        "name": "Maya Koleji Antalya Şubesi",
+        "operator": "Maya Okulları",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1375576554,
+      "center": {
+        "lat": 36.9486448,
+        "lon": 30.7086829
+      },
+      "nodes": [
+        12736518607,
+        12736518608,
+        12736518609,
+        12736518610,
+        12736518611,
+        12736518612,
+        13377009150,
+        13377009151,
+        12736518613,
+        12736518607
+      ],
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179218,
+      "center": {
+        "lat": 36.9415627,
+        "lon": 30.6765828
+      },
+      "nodes": [
+        12824621536,
+        12824621531,
+        12824621530,
+        12824621529,
+        12824621528,
+        12824621527,
+        12824621526,
+        12824621537,
+        12824621536
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Fatih Selek Ali Işıkhan Anaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179220,
+      "center": {
+        "lat": 36.9408874,
+        "lon": 30.6764352
+      },
+      "nodes": [
+        12824621543,
+        12824621542,
+        12824621538,
+        12824621537,
+        12824621536,
+        12824621543
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Ramazan-Ali Uyaroğlu İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179221,
+      "center": {
+        "lat": 36.9400417,
+        "lon": 30.6767062
+      },
+      "nodes": [
+        12824621544,
+        12824621543,
+        12824621542,
+        12824621541,
+        12824621540,
+        12824621539,
+        12824621544
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Emine Ali Uyaroğlu Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179222,
+      "center": {
+        "lat": 36.9366646,
+        "lon": 30.6653785
+      },
+      "nodes": [
+        12824621557,
+        12824621554,
+        12824621553,
+        12824621556,
+        12824621557
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Çamlıbel Anaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179223,
+      "center": {
+        "lat": 36.9365049,
+        "lon": 30.665697
+      },
+      "nodes": [
+        12824621560,
+        12824621559,
+        12824621558,
+        12824621557,
+        12824621556,
+        12824621555,
+        12824621560
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Çamlıbel Halk Eğitimi Merkezi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179224,
+      "center": {
+        "lat": 36.9382634,
+        "lon": 30.6647454
+      },
+      "nodes": [
+        6109867845,
+        12824621565,
+        12824621564,
+        12824621563,
+        12824621562,
+        12824621561,
+        6109867845
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Göçerler İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179225,
+      "center": {
+        "lat": 36.9431147,
+        "lon": 30.6631006
+      },
+      "nodes": [
+        12824621571,
+        12824621570,
+        12824621569,
+        12824621568,
+        12824621567,
+        12824621566,
+        12824621571
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Esentepe İlkokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179226,
+      "center": {
+        "lat": 36.9427619,
+        "lon": 30.6564696
+      },
+      "nodes": [
+        12824621581,
+        12824621580,
+        12824621579,
+        12824621578,
+        12824621577,
+        12824621576,
+        12824621575,
+        12824621574,
+        12824621573,
+        12824621572,
+        12824621581
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Göçerler Ortaokulu ve Şehit Cemal Yalın İmam Hatip Ortaokulu",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385179227,
+      "center": {
+        "lat": 36.9225688,
+        "lon": 30.6976528
+      },
+      "nodes": [
+        12824621586,
+        12824621585,
+        12824621584,
+        12824621583,
+        12824621582,
+        12824621586
+      ],
+      "tags": {
+        "amenity": "school",
+        "name": "Prof.Dr. Raşit Küçük Anadolu İmam Hatip Lisesi",
+        "operator": "Millî Eğitim Bakanlığı",
+        "operator:en": "Ministry of National Education",
+        "operator:short": "MEB",
+        "operator:tr": "Millî Eğitim Bakanlığı",
+        "operator:type": "government",
+        "operator:wikidata": "Q1359675"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1456753053,
+      "center": {
+        "lat": 36.9291135,
+        "lon": 30.6671313
+      },
+      "nodes": [
+        13360211473,
+        13360211472,
+        13360211471,
+        13360211470,
+        13360211473
+      ],
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Nasreddin Hoca Kreş ve Gündüz Bakım Evi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1553010473,
+      "center": {
+        "lat": 36.9013268,
+        "lon": 30.7272584
+      },
+      "nodes": [
+        14129575370,
+        14129575371,
+        14129575372,
+        14129575373,
+        14129575375,
+        14129575376,
+        14129575377,
+        14129575370
+      ],
+      "tags": {
+        "addr:city": "Antalya",
+        "addr:district": "Muratpaşa",
+        "addr:neighbourhood": "Gebizli Mahallesi",
+        "addr:street": "Yunus Emre Cadde",
+        "amenity": "school",
+        "building": "educational",
+        "education": "school",
+        "grades": "9-12",
+        "name": "Antalya Anadolu Lisesi",
+        "operator": "Milli Eğitim Bakanlığı"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1562511420,
+      "center": {
+        "lat": 36.91007,
+        "lon": 30.6520705
+      },
+      "nodes": [
+        14219473957,
+        14219473958,
+        14219473959,
+        14219473960,
+        14219473957
+      ],
+      "tags": {
+        "amenity": "school",
+        "education": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1566862215,
+      "center": {
+        "lat": 36.9105208,
+        "lon": 30.6465349
+      },
+      "nodes": [
+        14268475550,
+        14268475551,
+        14268475552,
+        14268475553,
+        14268475554,
+        14268475555,
+        14268475550
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 9223144,
+      "center": {
+        "lat": 36.8998307,
+        "lon": 30.6594062
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 663722074,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 663722075,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 663722077,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 663722078,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 663722079,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

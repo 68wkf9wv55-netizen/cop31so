@@ -1,0 +1,26 @@
+{
+ "agirlik": {
+  "c_isi": 0.4,
+  "c_yasli": 0.25,
+  "c_park": 0.2,
+  "c_tesis": 0.15
+ },
+ "tesis_var": true,
+ "nufus_var": true,
+ "agirlik_metin": "yüzey ısısı 0,40 · 65+ sayısı (ilçe oranıyla) 0,25 · parka uzaklık 0,20 · okul ve sağlık tesisi 0,15",
+ "eksik": [],
+ "nufus_toplam": 1154589,
+ "yasli_yuksek_pct": 60.0,
+ "kara_altigen": 1679,
+ "su_altigen": 285,
+ "yuksek_km2": 63.7,
+ "cok_yuksek_km2": 31.9,
+ "cok_yuksek_park_disi_pct": 100.0,
+ "park_400_kapsam_pct": 1.0,
+ "yerlesim_km2": 159.2,
+ "yerlesim_kurali": "altıgende en az 50 kişi (WorldPop)",
+ "toplam_km2": 202.2,
+ "yuksek_park_disi_pct": 100.0,
+ "park_disi_veri": [],
+ "sahne": "LC09_L2SP_178035_20250725_02_T1+LC09_L2SP_178034_20250725_02_T1"
+}

@@ -1,0 +1,44 @@
+CoolScape AI – CBS analizi (QGIS 3.34+)
+
+AÇMAK: Klasörü bir yere çıkarın, coolscape_cbs.qgz dosyasını QGIS ile açın.
+  Katmanlar coolscape_cbs.gpkg içindedir (göreli yol; iki dosya aynı klasörde kalmalı).
+  OpenStreetMap altlığı internet bağlantısıyla görünür.
+
+HARİTALAR: Klasik tematik harita düzeni (beyaz zemin, DMS koordinat çerçevesi, İŞARETLER lejantı,
+  kuzey oku, ölçek, başlık kutusu). Proje > Düzenler altında 3 baskı düzeni var:
+    Harita 1  Yüzey sıcaklığı farkı (Landsat, kent medyanına göre 5 sınıf)
+    Harita 2  Soğutma önceliği (ağırlıklı çakıştırma, 5 sınıf + seyrek yerleşim)
+    Harita 3  Erişim boşluğu ve müdahale planı (yüksek öncelikli odaklar, aday noktalar, yürüme halkaları)
+  haritalar/ klasöründe PDF (baskı) ve PNG hâlleri var. OSM altlığı projede kapalı bir katman olarak durur.
+
+KATMANLAR
+  oncelik_alanlari  H3 altıgenleri (UTM 36N). Alanlar: lst_c, lst_fark (kent medyanına göre °C), d_park_m,
+                    c_isi, c_park, c_tesis (0–1 ölçütler), oncelik (0–1), sinif_no / sinif (beşte birlik dilim)
+  parklar           5 pilot park; veri_durumu = uydu sahnesi içinde mi
+  park_tamponlari   400 m, 800 m (yürüme) ve 500 m (soğuma etkisi) halkaları
+  oncelik_alanlari.yerlesim = yerleşim maskesi (sinif_no 0 = seyrek yerleşim)
+  sicak_odaklar     yüksek ve çok yüksek öncelikli alanlar (birleştirilmiş)
+  aday_noktalar     uygulamadaki öncelik analizi ve aday kuralıyla seçilen sisleme ve yol ıslatma noktaları
+                    (uygulamadakiyle birebir aynı)
+  veri_kapsami      Landsat sahnesinin kapsadığı alan
+  su_alanlari       deniz/su altıgenleri (LST < 36 °C), analiz dışı
+  kiyi_karisik      kıyıda deniz ve karayı karıştıran piksel altıgenleri (≥2 su komşusu ya da 1 su komşusu ve iç
+                    kesimin 5. yüzdeliğinden serin); yapay serin göründükleri için analiz dışı
+  lst_sinif_poligon, oncelik_poligon, odak_poligon, calisma_alani, deniz, yer_adlari
+                    harita katmanları: altıgen sınıfları 30 m ızgarada çoğunluk süzgeciyle (~180 m) yumuşatılıp
+                    poligona çevrildi. Sınıflar değişmez, yalnızca sınırlar yuvarlanır; 6 ha altı adacıklar atılır.
+                    Yer adları yönlendirme amaçlı yaklaşık konumlardır, ilçe sınırı verisi değildir.
+
+AĞIRLIKLARI DEĞİŞTİRMEK: oncelik_alanlari > Alan hesaplayıcı, oncelik alanını güncelleyin, örn.:
+  (0.4*"c_isi" + 0.2*"c_park" + 0.15*"c_tesis") / 0.75
+  Nüfus eklenince: (0.4*"c_isi" + 0.25*"c_yasli" + 0.2*"c_park" + 0.15*"c_tesis")
+
+YENİDEN ÜRETMEK: python cbs_hazirla.py --yuzey isi_yuzeyi_h3.csv --tesis tesisler_osm.json  (nufus_h3.csv varsa otomatik)
+  python cbs_poligon.py
+  ardından QGIS Python konsolunda (ya da qgis python ile) qgis_harita.py çalıştırın.
+  (qgis_proje.py eski altıgen görünümlü düzenleri üretir.)
+
+SINIRLAR: Nüfus WorldPop 2025 toplam nüfusudur (nufus_h3.csv): yerleşim maskesi altıgende en az 50 kişi.
+  WorldPop 65+ katmanı mahalle düzeyinde değildir; toplam nüfusu ilçe başına tek oranla böler (%6,8 / %9,8 / %11,2).
+  Bu yüzden 65+ ölçütü "65+ sayısı (ilçe oranıyla)" olarak etiketlidir ve mahalleler arası yaşlı yoğunluğu farkını
+  göstermez. OSM'de huzurevi kaydı yok. Ağırlıklar uzman varsayımıdır.
